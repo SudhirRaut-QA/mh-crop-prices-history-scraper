@@ -1,12 +1,20 @@
 {
-  "timestamp": "2026-02-19T17:48:33.298307",
-  "execution_time_seconds": 141.89,
-  "execution_time_formatted": "2m 21s",
+  "timestamp": "2026-02-19T21:28:14.484933",
+  "execution_time_seconds": 169.76,
+  "execution_time_formatted": "2m 49s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
       "english": "Onion",
       "local": {
+        "अहिल्यानगर": {
+          "modal_price": 700,
+          "min_price": 200,
+          "max_price": 1300,
+          "arrival": 68521,
+          "variety": "लाल",
+          "trade_date": "19/02/2026"
+        },
         "लासलगाव": {
           "modal_price": 1100,
           "min_price": 500,
@@ -135,14 +143,6 @@
           "variety": "नं. १",
           "trade_date": "17/02/2026"
         },
-        "अहिल्यानगर": {
-          "modal_price": 700,
-          "min_price": 200,
-          "max_price": 1350,
-          "arrival": 64608,
-          "variety": "लाल",
-          "trade_date": "16/02/2026"
-        },
         "आळेफाटा": {
           "modal_price": 1400,
           "min_price": 1000,
@@ -160,7 +160,44 @@
           "trade_date": "13/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Gurgaon": {
+          "modal_price": 1500,
+          "variety": "Other"
+        },
+        "Chathanoor": {
+          "modal_price": 3000,
+          "variety": "Other"
+        },
+        "Harippad": {
+          "modal_price": 2500,
+          "variety": "Big"
+        },
+        "Ferozepur Cantt.": {
+          "modal_price": 1750,
+          "variety": "Onion"
+        },
+        "Rampuraphul(Nabha Mandi)": {
+          "modal_price": 1500,
+          "variety": "Other"
+        },
+        "Rayya": {
+          "modal_price": 1200,
+          "variety": "Other"
+        },
+        "Tarantaran": {
+          "modal_price": 1800,
+          "variety": "Other"
+        },
+        "Churu": {
+          "modal_price": 1300,
+          "variety": "1st Sort"
+        },
+        "Dasda": {
+          "modal_price": 3300,
+          "variety": "Onion"
+        }
+      }
     },
     "soyabean": {
       "marathi": "सोयाबीन",
@@ -288,8 +325,44 @@
         }
       },
       "outstate": {
+        "Bailahongal": {
+          "modal_price": 5377,
+          "variety": "Soyabeen"
+        },
+        "Bina": {
+          "modal_price": 5226,
+          "variety": "Soyabeen"
+        },
+        "Dewas": {
+          "modal_price": 5150,
+          "variety": "Soyabeen"
+        },
+        "Dhar": {
+          "modal_price": 5294,
+          "variety": "Soyabeen"
+        },
         "Indore": {
           "modal_price": 5180,
+          "variety": "Soyabeen"
+        },
+        "Khategaon": {
+          "modal_price": 4960,
+          "variety": "Soyabeen"
+        },
+        "Kurawar": {
+          "modal_price": 5300,
+          "variety": "Soyabeen"
+        },
+        "Mahidpur": {
+          "modal_price": 5361,
+          "variety": "Soyabeen"
+        },
+        "Mhow": {
+          "modal_price": 5259,
+          "variety": "Soyabeen"
+        },
+        "Nasrullaganj": {
+          "modal_price": 5125,
           "variety": "Soyabeen"
         }
       }
@@ -331,7 +404,48 @@
           "trade_date": "18/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Ridmalsar": {
+          "modal_price": 7645,
+          "variety": "American"
+        },
+        "Vikiravandi": {
+          "modal_price": 7555,
+          "variety": "Cotton"
+        },
+        "Bhikangaon": {
+          "modal_price": 6822,
+          "variety": "Without Ginned Cotton"
+        },
+        "Dhamnod": {
+          "modal_price": 7300,
+          "variety": "Without Ginned Cotton"
+        },
+        "Jobat": {
+          "modal_price": 7100,
+          "variety": "Without Ginned Cotton"
+        },
+        "Khandwa": {
+          "modal_price": 6950,
+          "variety": "Without Ginned Cotton"
+        },
+        "Khargone": {
+          "modal_price": 8075,
+          "variety": "Without Ginned Cotton"
+        },
+        "Khetia": {
+          "modal_price": 7545,
+          "variety": "Without Ginned Cotton"
+        },
+        "Sailana": {
+          "modal_price": 7400,
+          "variety": "Without Ginned Cotton"
+        },
+        "Husnabad": {
+          "modal_price": 7450,
+          "variety": "Bramha"
+        }
+      }
     },
     "maize": {
       "marathi": "मका",
@@ -434,7 +548,48 @@
           "trade_date": "16/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Gunpur": {
+          "modal_price": 2500,
+          "variety": "Deshi White"
+        },
+        "Parlakhemundi": {
+          "modal_price": 2200,
+          "variety": "Local"
+        },
+        "Anjad": {
+          "modal_price": 1360,
+          "variety": "Local"
+        },
+        "Ashta": {
+          "modal_price": 1400,
+          "variety": "Local"
+        },
+        "Badarwas": {
+          "modal_price": 1415,
+          "variety": "Local"
+        },
+        "Badwani": {
+          "modal_price": 1480,
+          "variety": "Local"
+        },
+        "Banapura": {
+          "modal_price": 1516,
+          "variety": "Yellow"
+        },
+        "Betul": {
+          "modal_price": 1320,
+          "variety": "Yellow"
+        },
+        "Bhikangaon": {
+          "modal_price": 1400,
+          "variety": "Local"
+        },
+        "Dhamnod": {
+          "modal_price": 1331,
+          "variety": "Local"
+        }
+      }
     },
     "wheat": {
       "marathi": "गहू",
@@ -577,7 +732,48 @@
           "trade_date": "16/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Bijapur": {
+          "modal_price": 2204,
+          "variety": "Sona"
+        },
+        "Asansol": {
+          "modal_price": 2700,
+          "variety": "Kalyan"
+        },
+        "Durgapur": {
+          "modal_price": 2750,
+          "variety": "Kalyan"
+        },
+        "Jiaganj": {
+          "modal_price": 2650,
+          "variety": "Sonalika"
+        },
+        "Kandi": {
+          "modal_price": 2650,
+          "variety": "Sonalika"
+        },
+        "Lakshar": {
+          "modal_price": 2500,
+          "variety": "Deshi"
+        },
+        "Anandnagar": {
+          "modal_price": 2525,
+          "variety": "Dara"
+        },
+        "Bachranwa": {
+          "modal_price": 2480,
+          "variety": "Dara"
+        },
+        "Hardoi": {
+          "modal_price": 2445,
+          "variety": "Dara"
+        },
+        "Jayas": {
+          "modal_price": 2450,
+          "variety": "Dara"
+        }
+      }
     },
     "arhar-turred-gram-whole": {
       "marathi": "तूर",
@@ -704,7 +900,40 @@
           "trade_date": "16/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Mahabubabad": {
+          "modal_price": 6769,
+          "variety": "Red Gram-Local"
+        },
+        "Nagarkurnool": {
+          "modal_price": 7669,
+          "variety": "Arhar Whole / Tur (Red Gram)"
+        },
+        "Kalwakurthy": {
+          "modal_price": 7209,
+          "variety": "Red Gram-Local"
+        },
+        "Yemmiganur": {
+          "modal_price": 6170,
+          "variety": "Tur/Arhar"
+        },
+        "Vellore": {
+          "modal_price": 8395,
+          "variety": "Red Gram-Local"
+        },
+        "Kesamudram": {
+          "modal_price": 6369,
+          "variety": "Red Gram-Local"
+        },
+        "Gadwal": {
+          "modal_price": 7009,
+          "variety": "Arhar Whole / Tur (Red Gram)"
+        },
+        "Jangaon": {
+          "modal_price": 7021,
+          "variety": "Red Gram-Local"
+        }
+      }
     },
     "bengal-gram-gram-whole": {
       "marathi": "हरभरा",
@@ -856,8 +1085,44 @@
         }
       },
       "outstate": {
+        "Bailahongal": {
+          "modal_price": 5289,
+          "variety": "Jawari/Local"
+        },
+        "Bijapur": {
+          "modal_price": 5162,
+          "variety": "Average (Whole)"
+        },
+        "Ashta": {
+          "modal_price": 7096,
+          "variety": "Gram"
+        },
+        "Badnagar": {
+          "modal_price": 4701,
+          "variety": "Gram"
+        },
         "Indore": {
           "modal_price": 7405,
+          "variety": "Gram"
+        },
+        "Khategaon": {
+          "modal_price": 4950,
+          "variety": "Gram"
+        },
+        "Khetia": {
+          "modal_price": 5305,
+          "variety": "Desi (F.A.Q. Split)"
+        },
+        "LavKush Nagar(Laundi)": {
+          "modal_price": 5100,
+          "variety": "Desi (F.A.Q. Split)"
+        },
+        "Manawar": {
+          "modal_price": 4880,
+          "variety": "Gram"
+        },
+        "Nasrullaganj": {
+          "modal_price": 5021,
           "variety": "Gram"
         }
       }
@@ -979,7 +1244,48 @@
           "trade_date": "16/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Gurgaon": {
+          "modal_price": 1200,
+          "variety": "Other"
+        },
+        "Chathanoor": {
+          "modal_price": 7000,
+          "variety": "Other"
+        },
+        "Pampady": {
+          "modal_price": 5000,
+          "variety": "Tomato"
+        },
+        "Rampuraphul(Nabha Mandi)": {
+          "modal_price": 2000,
+          "variety": "Other"
+        },
+        "Rayya": {
+          "modal_price": 1040,
+          "variety": "Other"
+        },
+        "Tarantaran": {
+          "modal_price": 2300,
+          "variety": "Other"
+        },
+        "Churu": {
+          "modal_price": 2100,
+          "variety": "Hybrid"
+        },
+        "Sambhal": {
+          "modal_price": 2250,
+          "variety": "Deshi"
+        },
+        "Shadabad": {
+          "modal_price": 850,
+          "variety": "Tomato"
+        },
+        "Bangarpet": {
+          "modal_price": 1200,
+          "variety": "Tomato"
+        }
+      }
     },
     "pomegranate": {
       "marathi": "डाळिंब",
@@ -1070,6 +1376,42 @@
         "Davangere": {
           "modal_price": 8200,
           "variety": "Pomogranate"
+        },
+        "Pmy Bilaspur": {
+          "modal_price": 16000,
+          "variety": "Pomogranate"
+        },
+        "Pmy Hamirpur": {
+          "modal_price": 16000,
+          "variety": "Other"
+        },
+        "Pmy Kangni Mandi": {
+          "modal_price": 15000,
+          "variety": "Pomogranate"
+        },
+        "Smy Dhanotu": {
+          "modal_price": 12000,
+          "variety": "Pomogranate"
+        },
+        "Smy Dharamshala": {
+          "modal_price": 13000,
+          "variety": "Pomogranate"
+        },
+        "Mechua": {
+          "modal_price": 16000,
+          "variety": "Other"
+        },
+        "Naanpara": {
+          "modal_price": 5600,
+          "variety": "Pomogranate"
+        },
+        "Rishikesh": {
+          "modal_price": 5800,
+          "variety": "Other"
+        },
+        "Rudrapur": {
+          "modal_price": 7000,
+          "variety": "Other"
         }
       }
     },
@@ -1158,7 +1500,48 @@
           "trade_date": "13/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Balugaon": {
+          "modal_price": 4500,
+          "variety": "Other"
+        },
+        "Gangoh": {
+          "modal_price": 7500,
+          "variety": "Garlic"
+        },
+        "Hardoi": {
+          "modal_price": 6000,
+          "variety": "Garlic"
+        },
+        "Jasvantnagar": {
+          "modal_price": 9020,
+          "variety": "Garlic"
+        },
+        "Kairana": {
+          "modal_price": 6150,
+          "variety": "Garlic"
+        },
+        "Maigalganj": {
+          "modal_price": 3900,
+          "variety": "Garlic"
+        },
+        "Payagpur": {
+          "modal_price": 14900,
+          "variety": "Other"
+        },
+        "Pratapgarh": {
+          "modal_price": 8200,
+          "variety": "Garlic"
+        },
+        "Sikarpur": {
+          "modal_price": 6900,
+          "variety": "Garlic"
+        },
+        "Siyana": {
+          "modal_price": 5250,
+          "variety": "Average"
+        }
+      }
     },
     "marigold-calcutta": {
       "marathi": "झेंडू",
@@ -1181,7 +1564,48 @@
           "trade_date": "17/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Ammapet(Uzhavar Sandhai )": {
+          "modal_price": 11000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Anna nagar(Uzhavar Sandhai )": {
+          "modal_price": 18000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Arcot(Uzhavar Sandhai )": {
+          "modal_price": 15000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Athur(Uzhavar Sandhai )": {
+          "modal_price": 27500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Dharmapuri(Uzhavar Sandhai )": {
+          "modal_price": 12750,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Elampillai(Uzhavar Sandhai )": {
+          "modal_price": 13500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Guduvancheri(Uzhavar Sandhai )": {
+          "modal_price": 14000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Hasthampatti(Uzhavar Sandhai )": {
+          "modal_price": 5500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Jameenrayapettai(Uzhavar Sandhai )": {
+          "modal_price": 13500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Kahithapattarai(Uzhavar Sandhai )": {
+          "modal_price": 22000,
+          "variety": "Marigold(Calcutta)"
+        }
+      }
     },
     "rose-local": {
       "marathi": "गुलाब",
@@ -1204,12 +1628,58 @@
           "trade_date": "17/02/2026"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Flower Market,Gazipur": {
+          "modal_price": 600,
+          "variety": "Other"
+        },
+        "Anna nagar(Uzhavar Sandhai )": {
+          "modal_price": 10000,
+          "variety": "Rose (Local)"
+        },
+        "Aruppukottai(Uzhavar Sandhai )": {
+          "modal_price": 39000,
+          "variety": "Rose (Local)"
+        },
+        "Athur(Uzhavar Sandhai )": {
+          "modal_price": 27500,
+          "variety": "Rose (Local)"
+        },
+        "Guduvancheri(Uzhavar Sandhai )": {
+          "modal_price": 15500,
+          "variety": "Rose (Local)"
+        },
+        "Hosur(Uzhavar Sandhai )": {
+          "modal_price": 11500,
+          "variety": "Rose (Local)"
+        },
+        "Jameenrayapettai(Uzhavar Sandhai )": {
+          "modal_price": 14000,
+          "variety": "Rose (Local)"
+        },
+        "Kahithapattarai(Uzhavar Sandhai )": {
+          "modal_price": 16000,
+          "variety": "Rose (Local)"
+        },
+        "Kallakurichi(Uzhavar Sandhai )": {
+          "modal_price": 35000,
+          "variety": "Rose (Local)"
+        },
+        "Katpadi (Uzhavar Sandhai )": {
+          "modal_price": 15000,
+          "variety": "Rose (Local)"
+        }
+      }
     },
     "silk-cocoonbh-double-hybr": {
       "marathi": "रेशीम कोष",
       "english": "Cocoon",
-      "local": {},
+      "local": {
+        "बारामती": {
+          "modal_price": 41000,
+          "variety": "Silk Cocoon(Bh) _double Hybr"
+        }
+      },
       "outstate": {}
     }
   }
