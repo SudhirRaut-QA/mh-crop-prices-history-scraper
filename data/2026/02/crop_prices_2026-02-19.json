@@ -1,75 +1,87 @@
 {
-  "timestamp": "2026-02-19T15:16:39.751340",
-  "execution_time_seconds": 1435.49,
-  "execution_time_formatted": "23m 55s",
+  "timestamp": "2026-02-19T15:35:53.748281",
+  "execution_time_seconds": 75.51,
+  "execution_time_formatted": "1m 15s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
       "english": "Onion",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 750,
-          "variety": "Red"
-        },
-        "Rahata": {
-          "modal_price": 1050,
-          "variety": "Red"
-        },
-        "Rahuri": {
-          "modal_price": 850,
-          "variety": "Onion Red"
-        },
-        "Alephata": {
-          "modal_price": 1400,
-          "variety": "Other"
-        },
-        "Sangamner": {
-          "modal_price": 838,
-          "variety": "Red"
-        },
-        "Lasalgaon": {
-          "modal_price": 1170,
-          "variety": "Red"
-        },
-        "Pune": {
-          "modal_price": 1000,
-          "variety": "Local"
-        },
-        "Solapur": {
-          "modal_price": 800,
-          "variety": "Red"
-        },
-        "Nagpur": {
-          "modal_price": 1500,
-          "variety": "Red"
-        },
-        "Akola": {
+        "लासलगाव": {
           "modal_price": 1100,
-          "variety": "Other"
+          "variety": "लाल"
         },
-        "Jalgaon": {
-          "modal_price": 975,
-          "variety": "Red"
-        },
-        "Pimpalgaon": {
-          "modal_price": 1050,
-          "variety": "Pole"
-        },
-        "Pandharpur": {
+        "पुणे": {
           "modal_price": 900,
-          "variety": "Red"
+          "variety": "लोकल"
         },
-        "Satana": {
-          "modal_price": 1020,
-          "variety": "Red"
+        "अकोला": {
+          "modal_price": 1100,
+          "variety": "---"
         },
-        "Baramati": {
-          "modal_price": 1200,
-          "variety": "Red"
+        "मुंबई": {
+          "modal_price": 1150,
+          "variety": "---"
         },
-        "Satara": {
+        "सातारा": {
           "modal_price": 1500,
-          "variety": "Other"
+          "variety": "---"
+        },
+        "नारायणगाव": {
+          "modal_price": 850,
+          "variety": "चिंचवड"
+        },
+        "सोलापूर": {
+          "modal_price": 850,
+          "variety": "लाल"
+        },
+        "अमरावती": {
+          "modal_price": 1050,
+          "variety": "लाल"
+        },
+        "नागपूर": {
+          "modal_price": 1525,
+          "variety": "लाल"
+        },
+        "संगमनेर": {
+          "modal_price": 825,
+          "variety": "लाल"
+        },
+        "पिंपळगाव": {
+          "modal_price": 970,
+          "variety": "लाल"
+        },
+        "बारामती": {
+          "modal_price": 1000,
+          "variety": "नं. १"
+        },
+        "जळगाव": {
+          "modal_price": 750,
+          "variety": "लाल"
+        },
+        "सटाणा": {
+          "modal_price": 1005,
+          "variety": "लाल"
+        },
+        "राहता": {
+          "modal_price": 1150,
+          "variety": "लाल"
+        },
+        "कल्याण": {
+          "modal_price": 1450,
+          "variety": "नं. १"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 700,
+          "variety": "लाल"
+        },
+        "आळेफाटा": {
+          "modal_price": 1400,
+          "variety": "चिंचवड"
+        },
+        "जालना": {
+          "modal_price": 900,
+          "variety": "---"
         }
       },
       "outstate": {}
@@ -78,93 +90,88 @@
       "marathi": "सोयाबीन",
       "english": "Soybean",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 5150,
-          "variety": "Other"
-        },
-        "Rahata": {
-          "modal_price": 5150,
-          "variety": "Other"
-        },
-        "Rahuri": {
-          "modal_price": 5000,
-          "variety": "Soya-Yellow"
-        },
-        "Sangamner": {
-          "modal_price": 4511,
-          "variety": "Other"
-        },
-        "Lasalgaon": {
-          "modal_price": 5291,
-          "variety": "Other"
-        },
-        "Solapur": {
-          "modal_price": 5335,
-          "variety": "Other"
-        },
-        "Nagpur": {
-          "modal_price": 5025,
-          "variety": "Other"
-        },
-        "Latur": {
+        "लासलगाव": {
           "modal_price": 5300,
-          "variety": "Yellow"
+          "variety": "---"
         },
-        "Akola": {
-          "modal_price": 5170,
-          "variety": "Soya-Yellow"
+        "राहता": {
+          "modal_price": 5230,
+          "variety": "---"
         },
-        "Amravati": {
+        "सोलापूर": {
+          "modal_price": 5400,
+          "variety": "लोकल"
+        },
+        "अमरावती": {
+          "modal_price": 5050,
+          "variety": "लोकल"
+        },
+        "नागपूर": {
+          "modal_price": 4925,
+          "variety": "लोकल"
+        },
+        "लातूर": {
+          "modal_price": 5300,
+          "variety": "पिवळा"
+        },
+        "जालना": {
+          "modal_price": 5700,
+          "variety": "पिवळा"
+        },
+        "अकोला": {
+          "modal_price": 5200,
+          "variety": "पिवळा"
+        },
+        "यवतमाळ": {
+          "modal_price": 5435,
+          "variety": "पिवळा"
+        },
+        "हिंगणघाट": {
+          "modal_price": 5360,
+          "variety": "पिवळा"
+        },
+        "वाशिम": {
+          "modal_price": 5100,
+          "variety": "---"
+        },
+        "पिंपळगाव": {
+          "modal_price": 5350,
+          "variety": "हायब्रीड"
+        },
+        "बारामती": {
+          "modal_price": 5340,
+          "variety": "पिवळा"
+        },
+        "जळगाव": {
           "modal_price": 5000,
-          "variety": "Soyabeans"
+          "variety": "पिवळा"
         },
-        "Washim": {
-          "modal_price": 5500,
-          "variety": "Yellow"
-        },
-        "Hinganghat": {
-          "modal_price": 5380,
-          "variety": "Yellow"
-        },
-        "Jalgaon": {
-          "modal_price": 5200,
-          "variety": "Soyabeans"
-        },
-        "Jalna": {
-          "modal_price": 4950,
-          "variety": "Soya-Yellow"
-        },
-        "Baramati": {
-          "modal_price": 5200,
-          "variety": "Yellow"
+        "अहिल्यानगर": {
+          "modal_price": 4750,
+          "variety": "---"
         }
       },
-      "outstate": {
-        "Indore": {
-          "modal_price": 5180,
-          "variety": "Soyabeen"
-        }
-      }
+      "outstate": {}
     },
     "cotton": {
       "marathi": "कापूस",
       "english": "Cotton",
       "local": {
-        "Sangamner": {
-          "modal_price": 6250,
-          "variety": "Other"
+        "अमरावती": {
+          "modal_price": 7425,
+          "variety": "---"
         },
-        "Akola": {
+        "जालना": {
+          "modal_price": 7850,
+          "variety": "हायब्रीड"
+        },
+        "अकोला": {
           "modal_price": 8010,
-          "variety": "Desi"
+          "variety": "लोकल"
         },
-        "Hinganghat": {
-          "modal_price": 7880,
-          "variety": "Other"
-        },
-        "Baramati": {
-          "modal_price": 6300,
-          "variety": "Other"
+        "हिंगणघाट": {
+          "modal_price": 7790,
+          "variety": "मध्यम स्टेपल"
         }
       },
       "outstate": {}
@@ -173,73 +180,53 @@
       "marathi": "मका",
       "english": "Maize",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 1750,
-          "variety": "Other"
+        "लासलगाव": {
+          "modal_price": 1700,
+          "variety": "----"
         },
-        "Rahata": {
-          "modal_price": 1415,
-          "variety": "Other"
+        "नागपूर": {
+          "modal_price": 1950,
+          "variety": "----"
         },
-        "Rahuri": {
-          "modal_price": 1750,
-          "variety": "Maize Hybrid"
+        "पिंपळगाव": {
+          "modal_price": 1701,
+          "variety": "----"
         },
-        "Sangamner": {
-          "modal_price": 1800,
-          "variety": "Maize"
+        "जालना": {
+          "modal_price": 1575,
+          "variety": "लाल"
         },
-        "Lasalgaon": {
-          "modal_price": 1640,
-          "variety": "Other"
+        "अमरावती": {
+          "modal_price": 1525,
+          "variety": "लाल"
         },
-        "Pune": {
+        "जळगाव": {
+          "modal_price": 1475,
+          "variety": "लाल"
+        },
+        "पुणे": {
           "modal_price": 2850,
-          "variety": "Deshi Red"
+          "variety": "लाल"
         },
-        "Solapur": {
-          "modal_price": 1800,
-          "variety": "Deshi Red"
-        },
-        "Nagpur": {
-          "modal_price": 1650,
-          "variety": "Other"
-        },
-        "Mumbai": {
+        "मुंबई": {
           "modal_price": 3250,
-          "variety": "Other"
+          "variety": "लोकल"
         },
-        "Akola": {
+        "सटाणा": {
+          "modal_price": 1640,
+          "variety": "हायब्रीड"
+        },
+        "अकोला": {
           "modal_price": 2050,
-          "variety": "Yellow"
+          "variety": "पिवळी"
         },
-        "Amravati": {
-          "modal_price": 1650,
-          "variety": "Maize"
+        "बारामती": {
+          "modal_price": 1750,
+          "variety": "लाल"
         },
-        "Jalgaon": {
-          "modal_price": 1605,
-          "variety": "Deshi Red"
-        },
-        "Jalna": {
-          "modal_price": 1550,
-          "variety": "Maize"
-        },
-        "Sangola": {
-          "modal_price": 2510,
-          "variety": "Maize"
-        },
-        "Pandharpur": {
-          "modal_price": 2300,
-          "variety": "Deshi Red"
-        },
-        "Satana": {
-          "modal_price": 1630,
-          "variety": "Other"
-        },
-        "Baramati": {
-          "modal_price": 2300,
-          "variety": "Deshi Red"
+        "अहिल्यानगर": {
+          "modal_price": 1700,
+          "variety": "लोकल"
         }
       },
       "outstate": {}
@@ -248,81 +235,73 @@
       "marathi": "गहू",
       "english": "Wheat",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 2525,
-          "variety": "Other"
+        "राहता": {
+          "modal_price": 2515,
+          "variety": "---"
         },
-        "Rahata": {
-          "modal_price": 2556,
-          "variety": "Other"
+        "लासलगाव": {
+          "modal_price": 2451,
+          "variety": "२१८९"
         },
-        "Rahuri": {
-          "modal_price": 2475,
-          "variety": "Other"
+        "अकोला": {
+          "modal_price": 2427,
+          "variety": "लोकल"
         },
-        "Sangamner": {
-          "modal_price": 2250,
-          "variety": "Other"
+        "अमरावती": {
+          "modal_price": 2750,
+          "variety": "लोकल"
         },
-        "Lasalgaon": {
-          "modal_price": 2475,
-          "variety": "Maharashtra 2189"
+        "नागपूर": {
+          "modal_price": 2414,
+          "variety": "लोकल"
         },
-        "Pune": {
-          "modal_price": 4850,
-          "variety": "Sharbati"
+        "हिंगणघाट": {
+          "modal_price": 2200,
+          "variety": "लोकल"
         },
-        "Solapur": {
-          "modal_price": 3765,
-          "variety": "Sharbati"
-        },
-        "Nagpur": {
-          "modal_price": 3425,
-          "variety": "Sharbati"
-        },
-        "Mumbai": {
+        "मुंबई": {
           "modal_price": 3950,
-          "variety": "Other"
+          "variety": "लोकल"
         },
-        "Latur": {
-          "modal_price": 2700,
-          "variety": "Maharashtra 2189"
+        "जालना": {
+          "modal_price": 2425,
+          "variety": "नं. ३"
         },
-        "Akola": {
-          "modal_price": 2475,
-          "variety": "Other"
+        "सोलापूर": {
+          "modal_price": 3690,
+          "variety": "शरबती"
         },
-        "Amravati": {
-          "modal_price": 2950,
-          "variety": "Wheat"
+        "पुणे": {
+          "modal_price": 4950,
+          "variety": "शरबती"
         },
-        "Washim": {
+        "जळगाव": {
+          "modal_price": 2655,
+          "variety": "१४७"
+        },
+        "पिंपळगाव": {
+          "modal_price": 2525,
+          "variety": "२१८९"
+        },
+        "सटाणा": {
           "modal_price": 2650,
-          "variety": "Maharashtra 2189"
+          "variety": "लोकल"
         },
-        "Hinganghat": {
-          "modal_price": 2300,
-          "variety": "Other"
+        "कल्याण": {
+          "modal_price": 3200,
+          "variety": "शरबती"
         },
-        "Jalgaon": {
-          "modal_price": 2725,
-          "variety": "147 Average"
+        "अहिल्यानगर": {
+          "modal_price": 2475,
+          "variety": "---"
         },
-        "Jalna": {
-          "modal_price": 2470,
-          "variety": "Wheat"
+        "बारामती": {
+          "modal_price": 2600,
+          "variety": "२१८९"
         },
-        "Pandharpur": {
-          "modal_price": 2800,
-          "variety": "Maharashtra 2189"
-        },
-        "Satana": {
-          "modal_price": 2755,
-          "variety": "Other"
-        },
-        "Baramati": {
-          "modal_price": 2700,
-          "variety": "Maharashtra 2189"
+        "यवतमाळ": {
+          "modal_price": 2322,
+          "variety": "लोकल"
         }
       },
       "outstate": {}
@@ -331,69 +310,65 @@
       "marathi": "तूर",
       "english": "Tur",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 5675,
-          "variety": "Other"
+        "लासलगाव": {
+          "modal_price": 4500,
+          "variety": "---"
         },
-        "Rahata": {
-          "modal_price": 6200,
-          "variety": "Tur/Arhar"
+        "जालना": {
+          "modal_price": 7882,
+          "variety": "काळी"
         },
-        "Rahuri": {
-          "modal_price": 6350,
-          "variety": "Tur/Arhar"
+        "सोलापूर": {
+          "modal_price": 7400,
+          "variety": "लाल"
         },
-        "Sangamner": {
-          "modal_price": 6302,
-          "variety": "Other"
+        "लातूर": {
+          "modal_price": 7900,
+          "variety": "लाल"
         },
-        "Lasalgaon": {
-          "modal_price": 5500,
-          "variety": "Other"
+        "अकोला": {
+          "modal_price": 8090,
+          "variety": "लाल"
         },
-        "Solapur": {
-          "modal_price": 6300,
-          "variety": "Other"
+        "अमरावती": {
+          "modal_price": 7649,
+          "variety": "लाल"
         },
-        "Nagpur": {
-          "modal_price": 7500,
-          "variety": "Tur/Arhar"
+        "जळगाव": {
+          "modal_price": 7300,
+          "variety": "लाल"
         },
-        "Mumbai": {
-          "modal_price": 12700,
-          "variety": "Other"
+        "यवतमाळ": {
+          "modal_price": 7390,
+          "variety": "लाल"
         },
-        "Latur": {
-          "modal_price": 6300,
-          "variety": "Other"
+        "नागपूर": {
+          "modal_price": 7660,
+          "variety": "लाल"
         },
-        "Akola": {
-          "modal_price": 4825,
-          "variety": "Tur/Arhar"
+        "हिंगणघाट": {
+          "modal_price": 8200,
+          "variety": "लाल"
         },
-        "Amravati": {
-          "modal_price": 8000,
-          "variety": "Tur/Arhar"
+        "वाशिम": {
+          "modal_price": 7400,
+          "variety": "---"
         },
-        "Washim": {
-          "modal_price": 6250,
-          "variety": "Other"
+        "सटाणा": {
+          "modal_price": 6700,
+          "variety": "लोकल"
         },
-        "Hinganghat": {
-          "modal_price": 6250,
-          "variety": "Other"
+        "अहिल्यानगर": {
+          "modal_price": 7250,
+          "variety": "---"
         },
-        "Jalgaon": {
-          "modal_price": 8080,
-          "variety": "Tur/Arhar"
+        "पिंपळगाव": {
+          "modal_price": 7000,
+          "variety": "हायब्रीड"
         },
-        "Jalna": {
-          "modal_price": 7990,
-          "variety": "Tur/Arhar"
-        },
-        "Baramati": {
-          "modal_price": 5000,
-          "variety": "Other"
+        "बारामती": {
+          "modal_price": 7200,
+          "variety": "लाल"
         }
       },
       "outstate": {}
@@ -402,141 +377,140 @@
       "marathi": "हरभरा",
       "english": "Harbara",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 4800,
-          "variety": "Other"
-        },
-        "Rahata": {
-          "modal_price": 5025,
-          "variety": "Other"
-        },
-        "Rahuri": {
-          "modal_price": 4200,
-          "variety": "Other"
-        },
-        "Sangamner": {
-          "modal_price": 5152,
-          "variety": "Other"
-        },
-        "Lasalgaon": {
-          "modal_price": 4500,
-          "variety": "Other"
-        },
-        "Pune": {
+        "पुणे": {
           "modal_price": 6800,
-          "variety": "Other"
+          "variety": "---"
         },
-        "Solapur": {
-          "modal_price": 5060,
-          "variety": "Other"
-        },
-        "Nagpur": {
-          "modal_price": 5215,
-          "variety": "Other"
-        },
-        "Mumbai": {
-          "modal_price": 7200,
-          "variety": "Other"
-        },
-        "Latur": {
-          "modal_price": 5200,
-          "variety": "Other"
-        },
-        "Akola": {
-          "modal_price": 5130,
-          "variety": "Chana (Bengal Gram)"
-        },
-        "Amravati": {
-          "modal_price": 5368,
-          "variety": "Chana Gram"
-        },
-        "Washim": {
-          "modal_price": 5200,
-          "variety": "Average (Whole)"
-        },
-        "Hinganghat": {
+        "राहता": {
           "modal_price": 4900,
-          "variety": "Other"
+          "variety": "---"
         },
-        "Jalgaon": {
-          "modal_price": 4900,
-          "variety": "Chana"
+        "जळगाव": {
+          "modal_price": 4935,
+          "variety": "चाफा"
         },
-        "Jalna": {
-          "modal_price": 5090,
-          "variety": "Chana Gram"
+        "अकोला": {
+          "modal_price": 8000,
+          "variety": "काबुली"
         },
-        "Pandharpur": {
-          "modal_price": 5500,
-          "variety": "Average (Whole)"
+        "लातूर": {
+          "modal_price": 5350,
+          "variety": "लाल"
         },
-        "Satana": {
-          "modal_price": 4650,
-          "variety": "Other"
+        "जालना": {
+          "modal_price": 5050,
+          "variety": "लोकल"
         },
-        "Baramati": {
+        "अमरावती": {
+          "modal_price": 5250,
+          "variety": "लोकल"
+        },
+        "यवतमाळ": {
+          "modal_price": 5145,
+          "variety": "लोकल"
+        },
+        "नागपूर": {
+          "modal_price": 5356,
+          "variety": "लोकल"
+        },
+        "हिंगणघाट": {
           "modal_price": 5000,
-          "variety": "Other"
+          "variety": "लोकल"
+        },
+        "मुंबई": {
+          "modal_price": 7200,
+          "variety": "लोकल"
+        },
+        "वाशिम": {
+          "modal_price": 5000,
+          "variety": "---"
+        },
+        "सोलापूर": {
+          "modal_price": 5100,
+          "variety": "गरडा"
+        },
+        "पिंपळगाव": {
+          "modal_price": 4501,
+          "variety": "हायब्रीड"
+        },
+        "कल्याण": {
+          "modal_price": 6500,
+          "variety": "हायब्रीड"
+        },
+        "लासलगाव": {
+          "modal_price": 4500,
+          "variety": "लोकल"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 4850,
+          "variety": "---"
+        },
+        "बारामती": {
+          "modal_price": 5076,
+          "variety": "बोल्ड"
         }
       },
-      "outstate": {
-        "Indore": {
-          "modal_price": 7405,
-          "variety": "Gram"
-        }
-      }
+      "outstate": {}
     },
     "tomato": {
       "marathi": "टोमॅटो",
       "english": "Tomato",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 950,
-          "variety": "Other"
+        "राहता": {
+          "modal_price": 650,
+          "variety": "---"
         },
-        "Rahata": {
-          "modal_price": 1000,
-          "variety": "Other"
-        },
-        "Rahuri": {
-          "modal_price": 850,
-          "variety": "Other"
-        },
-        "Sangamner": {
-          "modal_price": 750,
-          "variety": "Other"
-        },
-        "Pune": {
-          "modal_price": 1300,
-          "variety": "Local"
-        },
-        "Solapur": {
-          "modal_price": 700,
-          "variety": "Other"
-        },
-        "Nagpur": {
-          "modal_price": 1425,
-          "variety": "Other"
-        },
-        "Mumbai": {
-          "modal_price": 2200,
-          "variety": "Other"
-        },
-        "Jalgaon": {
-          "modal_price": 500,
-          "variety": "Other"
-        },
-        "Pimpalgaon": {
-          "modal_price": 1350,
-          "variety": "Other"
-        },
-        "Pandharpur": {
+        "पुणे": {
           "modal_price": 1100,
-          "variety": "Other"
+          "variety": "लोकल"
         },
-        "Satara": {
+        "संगमनेर": {
+          "modal_price": 750,
+          "variety": "---"
+        },
+        "सातारा": {
           "modal_price": 1250,
-          "variety": "Other"
+          "variety": "---"
+        },
+        "पंढरपूर": {
+          "modal_price": 1100,
+          "variety": "हायब्रीड"
+        },
+        "अमरावती": {
+          "modal_price": 900,
+          "variety": "लोकल"
+        },
+        "नारायणगाव": {
+          "modal_price": 1000,
+          "variety": "लोकल"
+        },
+        "नागपूर": {
+          "modal_price": 1050,
+          "variety": "लोकल"
+        },
+        "मुंबई": {
+          "modal_price": 2200,
+          "variety": "नं. १"
+        },
+        "सोलापूर": {
+          "modal_price": 700,
+          "variety": "वैशाली"
+        },
+        "पिंपळगाव": {
+          "modal_price": 855,
+          "variety": "---"
+        },
+        "कल्याण": {
+          "modal_price": 1150,
+          "variety": "हायब्रीड"
+        },
+        "जळगाव": {
+          "modal_price": 700,
+          "variety": "वैशाली"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 1100,
+          "variety": "---"
         }
       },
       "outstate": {}
@@ -545,101 +519,92 @@
       "marathi": "डाळिंब",
       "english": "Pomegranate",
       "local": {
-        "Ahmednagar": {
+        "पुणे": {
+          "modal_price": 10500,
+          "variety": "आरक्ता"
+        },
+        "अमरावती": {
           "modal_price": 10000,
-          "variety": "Other"
+          "variety": "---"
         },
-        "Rahata": {
-          "modal_price": 6500,
-          "variety": "Other"
-        },
-        "Rahuri": {
-          "modal_price": 5750,
-          "variety": "Other"
-        },
-        "Alephata": {
-          "modal_price": 12500,
-          "variety": "Other"
-        },
-        "Sangamner": {
-          "modal_price": 4000,
-          "variety": "Other"
-        },
-        "Pune": {
-          "modal_price": 10000,
-          "variety": "Other"
-        },
-        "Solapur": {
+        "मुंबई": {
           "modal_price": 12000,
-          "variety": "Other"
+          "variety": "---"
         },
-        "Nagpur": {
-          "modal_price": 4750,
-          "variety": "Other"
+        "सांगोला": {
+          "modal_price": 11500,
+          "variety": "भगवा"
         },
-        "Mumbai": {
-          "modal_price": 15500,
-          "variety": "Other"
-        },
-        "Jalgaon": {
-          "modal_price": 12500,
-          "variety": "Other"
-        },
-        "Pimpalgaon": {
+        "सोलापूर": {
           "modal_price": 11000,
-          "variety": "Other"
+          "variety": "लोकल"
         },
-        "Sangola": {
-          "modal_price": 6235,
-          "variety": "Pomegranate"
+        "नागपूर": {
+          "modal_price": 4750,
+          "variety": "लोकल"
         },
-        "Pandharpur": {
-          "modal_price": 7000,
-          "variety": "Other"
+        "जळगाव": {
+          "modal_price": 11500,
+          "variety": "गणेश"
         },
-        "Satana": {
-          "modal_price": 7000,
-          "variety": "Other"
+        "अहिल्यानगर": {
+          "modal_price": 9500,
+          "variety": "---"
+        },
+        "सटाणा": {
+          "modal_price": 6500,
+          "variety": "भगवा"
+        },
+        "जालना": {
+          "modal_price": 8100,
+          "variety": "लोकल"
         }
       },
-      "outstate": {
-        "Davangere": {
-          "modal_price": 8200,
-          "variety": "Pomogranate"
-        }
-      }
+      "outstate": {}
     },
     "garlic": {
       "marathi": "लसूण",
       "english": "Garlic",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 6600,
-          "variety": "Other"
-        },
-        "Rahata": {
+        "राहता": {
           "modal_price": 6000,
-          "variety": "Other"
+          "variety": "---"
         },
-        "Rahuri": {
-          "modal_price": 9500,
-          "variety": "Other"
+        "पुणे": {
+          "modal_price": 8000,
+          "variety": "लोकल"
         },
-        "Pune": {
-          "modal_price": 8500,
-          "variety": "Other"
-        },
-        "Nagpur": {
-          "modal_price": 7750,
-          "variety": "Other"
-        },
-        "Akola": {
+        "अकोला": {
           "modal_price": 10000,
-          "variety": "Other"
+          "variety": "---"
         },
-        "Jalgaon": {
-          "modal_price": 11000,
-          "variety": "Other"
+        "नारायणगाव": {
+          "modal_price": 5000,
+          "variety": "---"
+        },
+        "अमरावती": {
+          "modal_price": 9500,
+          "variety": "लोकल"
+        },
+        "नागपूर": {
+          "modal_price": 7500,
+          "variety": "लोकल"
+        },
+        "कल्याण": {
+          "modal_price": 9500,
+          "variety": "हायब्रीड"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 5100,
+          "variety": "---"
+        },
+        "जालना": {
+          "modal_price": 5300,
+          "variety": "---"
+        },
+        "जळगाव": {
+          "modal_price": 12000,
+          "variety": "---"
         }
       },
       "outstate": {}
@@ -648,25 +613,13 @@
       "marathi": "झेंडू",
       "english": "Marigold",
       "local": {
-        "Ahmednagar": {
-          "modal_price": 5500,
-          "variety": "Other"
+        "पुणे": {
+          "modal_price": 3500,
+          "variety": "लोकल"
         },
-        "Rahata": {
-          "modal_price": 4500,
-          "variety": "Other"
-        },
-        "Pune": {
-          "modal_price": 3000,
-          "variety": "Other"
-        },
-        "Jalgaon": {
-          "modal_price": 3000,
-          "variety": "Other"
-        },
-        "Satara": {
-          "modal_price": 5000,
-          "variety": "Other"
+        "कल्याण": {
+          "modal_price": 7500,
+          "variety": "हायब्रीड"
         }
       },
       "outstate": {}
@@ -674,18 +627,22 @@
     "rose-local": {
       "marathi": "गुलाब",
       "english": "Rose",
-      "local": {},
+      "local": {
+        "पुणे": {
+          "modal_price": 7500,
+          "variety": "---"
+        },
+        "कल्याण": {
+          "modal_price": 4000,
+          "variety": "हायब्रीड"
+        }
+      },
       "outstate": {}
     },
     "silk-cocoonbh-double-hybr": {
       "marathi": "रेशीम कोष",
       "english": "Cocoon",
-      "local": {
-        "Baramati": {
-          "modal_price": 41000,
-          "variety": "Silk Cocoon(Bh) _double Hybr"
-        }
-      },
+      "local": {},
       "outstate": {}
     }
   }
