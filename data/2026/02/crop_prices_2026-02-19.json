@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-19T15:55:04.226163",
-  "execution_time_seconds": 167.1,
-  "execution_time_formatted": "2m 47s",
+  "timestamp": "2026-02-19T17:48:33.298307",
+  "execution_time_seconds": 141.89,
+  "execution_time_formatted": "2m 21s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -166,6 +166,14 @@
       "marathi": "सोयाबीन",
       "english": "Soybean",
       "local": {
+        "राहता": {
+          "modal_price": 5360,
+          "min_price": 5360,
+          "max_price": 5360,
+          "arrival": 113,
+          "variety": "---",
+          "trade_date": "19/02/2026"
+        },
         "लासलगाव": {
           "modal_price": 5300,
           "min_price": 3000,
@@ -174,12 +182,12 @@
           "variety": "---",
           "trade_date": "18/02/2026"
         },
-        "राहता": {
-          "modal_price": 5230,
-          "min_price": 5200,
-          "max_price": 5266,
-          "arrival": 7,
-          "variety": "---",
+        "पिंपळगाव": {
+          "modal_price": 5365,
+          "min_price": 3000,
+          "max_price": 5400,
+          "arrival": 187,
+          "variety": "हायब्रीड",
           "trade_date": "18/02/2026"
         },
         "सोलापूर": {
@@ -252,14 +260,6 @@
           "max_price": 5200,
           "arrival": 85,
           "variety": "---",
-          "trade_date": "17/02/2026"
-        },
-        "पिंपळगाव": {
-          "modal_price": 5350,
-          "min_price": 2500,
-          "max_price": 5400,
-          "arrival": 229,
-          "variety": "हायब्रीड",
           "trade_date": "17/02/2026"
         },
         "बारामती": {
@@ -441,18 +441,26 @@
       "english": "Wheat",
       "local": {
         "राहता": {
-          "modal_price": 2515,
-          "min_price": 2450,
-          "max_price": 2580,
-          "arrival": 12,
+          "modal_price": 2300,
+          "min_price": 2201,
+          "max_price": 2400,
+          "arrival": 24,
           "variety": "---",
-          "trade_date": "18/02/2026"
+          "trade_date": "19/02/2026"
         },
         "लासलगाव": {
           "modal_price": 2451,
           "min_price": 2251,
           "max_price": 2640,
           "arrival": 64,
+          "variety": "२१८९",
+          "trade_date": "18/02/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 2500,
+          "min_price": 2001,
+          "max_price": 2600,
+          "arrival": 54,
           "variety": "२१८९",
           "trade_date": "18/02/2026"
         },
@@ -526,14 +534,6 @@
           "max_price": 2655,
           "arrival": 28,
           "variety": "१४७",
-          "trade_date": "17/02/2026"
-        },
-        "पिंपळगाव": {
-          "modal_price": 2525,
-          "min_price": 2200,
-          "max_price": 2525,
-          "arrival": 10,
-          "variety": "२१८९",
           "trade_date": "17/02/2026"
         },
         "सटाणा": {
@@ -710,19 +710,19 @@
       "marathi": "हरभरा",
       "english": "Harbara",
       "local": {
+        "राहता": {
+          "modal_price": 5080,
+          "min_price": 5080,
+          "max_price": 5080,
+          "arrival": 10,
+          "variety": "---",
+          "trade_date": "19/02/2026"
+        },
         "पुणे": {
           "modal_price": 6800,
           "min_price": 6600,
           "max_price": 7000,
           "arrival": 37,
-          "variety": "---",
-          "trade_date": "18/02/2026"
-        },
-        "राहता": {
-          "modal_price": 4900,
-          "min_price": 4900,
-          "max_price": 4900,
-          "arrival": 2,
           "variety": "---",
           "trade_date": "18/02/2026"
         },
