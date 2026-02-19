@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-19T14:45:13.563137",
-  "execution_time_seconds": 810.54,
-  "execution_time_formatted": "13m 30s",
+  "timestamp": "2026-02-19T15:16:39.751340",
+  "execution_time_seconds": 1435.49,
+  "execution_time_formatted": "23m 55s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -42,6 +42,34 @@
         "Nagpur": {
           "modal_price": 1500,
           "variety": "Red"
+        },
+        "Akola": {
+          "modal_price": 1100,
+          "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 975,
+          "variety": "Red"
+        },
+        "Pimpalgaon": {
+          "modal_price": 1050,
+          "variety": "Pole"
+        },
+        "Pandharpur": {
+          "modal_price": 900,
+          "variety": "Red"
+        },
+        "Satana": {
+          "modal_price": 1020,
+          "variety": "Red"
+        },
+        "Baramati": {
+          "modal_price": 1200,
+          "variety": "Red"
+        },
+        "Satara": {
+          "modal_price": 1500,
+          "variety": "Other"
         }
       },
       "outstate": {}
@@ -77,6 +105,38 @@
         "Nagpur": {
           "modal_price": 5025,
           "variety": "Other"
+        },
+        "Latur": {
+          "modal_price": 5300,
+          "variety": "Yellow"
+        },
+        "Akola": {
+          "modal_price": 5170,
+          "variety": "Soya-Yellow"
+        },
+        "Amravati": {
+          "modal_price": 5000,
+          "variety": "Soyabeans"
+        },
+        "Washim": {
+          "modal_price": 5500,
+          "variety": "Yellow"
+        },
+        "Hinganghat": {
+          "modal_price": 5380,
+          "variety": "Yellow"
+        },
+        "Jalgaon": {
+          "modal_price": 5200,
+          "variety": "Soyabeans"
+        },
+        "Jalna": {
+          "modal_price": 4950,
+          "variety": "Soya-Yellow"
+        },
+        "Baramati": {
+          "modal_price": 5200,
+          "variety": "Yellow"
         }
       },
       "outstate": {
@@ -92,6 +152,18 @@
       "local": {
         "Sangamner": {
           "modal_price": 6250,
+          "variety": "Other"
+        },
+        "Akola": {
+          "modal_price": 8010,
+          "variety": "Desi"
+        },
+        "Hinganghat": {
+          "modal_price": 7880,
+          "variety": "Other"
+        },
+        "Baramati": {
+          "modal_price": 6300,
           "variety": "Other"
         }
       },
@@ -136,6 +208,38 @@
         "Mumbai": {
           "modal_price": 3250,
           "variety": "Other"
+        },
+        "Akola": {
+          "modal_price": 2050,
+          "variety": "Yellow"
+        },
+        "Amravati": {
+          "modal_price": 1650,
+          "variety": "Maize"
+        },
+        "Jalgaon": {
+          "modal_price": 1605,
+          "variety": "Deshi Red"
+        },
+        "Jalna": {
+          "modal_price": 1550,
+          "variety": "Maize"
+        },
+        "Sangola": {
+          "modal_price": 2510,
+          "variety": "Maize"
+        },
+        "Pandharpur": {
+          "modal_price": 2300,
+          "variety": "Deshi Red"
+        },
+        "Satana": {
+          "modal_price": 1630,
+          "variety": "Other"
+        },
+        "Baramati": {
+          "modal_price": 2300,
+          "variety": "Deshi Red"
         }
       },
       "outstate": {}
@@ -179,6 +283,46 @@
         "Mumbai": {
           "modal_price": 3950,
           "variety": "Other"
+        },
+        "Latur": {
+          "modal_price": 2700,
+          "variety": "Maharashtra 2189"
+        },
+        "Akola": {
+          "modal_price": 2475,
+          "variety": "Other"
+        },
+        "Amravati": {
+          "modal_price": 2950,
+          "variety": "Wheat"
+        },
+        "Washim": {
+          "modal_price": 2650,
+          "variety": "Maharashtra 2189"
+        },
+        "Hinganghat": {
+          "modal_price": 2300,
+          "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 2725,
+          "variety": "147 Average"
+        },
+        "Jalna": {
+          "modal_price": 2470,
+          "variety": "Wheat"
+        },
+        "Pandharpur": {
+          "modal_price": 2800,
+          "variety": "Maharashtra 2189"
+        },
+        "Satana": {
+          "modal_price": 2755,
+          "variety": "Other"
+        },
+        "Baramati": {
+          "modal_price": 2700,
+          "variety": "Maharashtra 2189"
         }
       },
       "outstate": {}
@@ -217,6 +361,38 @@
         },
         "Mumbai": {
           "modal_price": 12700,
+          "variety": "Other"
+        },
+        "Latur": {
+          "modal_price": 6300,
+          "variety": "Other"
+        },
+        "Akola": {
+          "modal_price": 4825,
+          "variety": "Tur/Arhar"
+        },
+        "Amravati": {
+          "modal_price": 8000,
+          "variety": "Tur/Arhar"
+        },
+        "Washim": {
+          "modal_price": 6250,
+          "variety": "Other"
+        },
+        "Hinganghat": {
+          "modal_price": 6250,
+          "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 8080,
+          "variety": "Tur/Arhar"
+        },
+        "Jalna": {
+          "modal_price": 7990,
+          "variety": "Tur/Arhar"
+        },
+        "Baramati": {
+          "modal_price": 5000,
           "variety": "Other"
         }
       },
@@ -260,6 +436,46 @@
         },
         "Mumbai": {
           "modal_price": 7200,
+          "variety": "Other"
+        },
+        "Latur": {
+          "modal_price": 5200,
+          "variety": "Other"
+        },
+        "Akola": {
+          "modal_price": 5130,
+          "variety": "Chana (Bengal Gram)"
+        },
+        "Amravati": {
+          "modal_price": 5368,
+          "variety": "Chana Gram"
+        },
+        "Washim": {
+          "modal_price": 5200,
+          "variety": "Average (Whole)"
+        },
+        "Hinganghat": {
+          "modal_price": 4900,
+          "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 4900,
+          "variety": "Chana"
+        },
+        "Jalna": {
+          "modal_price": 5090,
+          "variety": "Chana Gram"
+        },
+        "Pandharpur": {
+          "modal_price": 5500,
+          "variety": "Average (Whole)"
+        },
+        "Satana": {
+          "modal_price": 4650,
+          "variety": "Other"
+        },
+        "Baramati": {
+          "modal_price": 5000,
           "variety": "Other"
         }
       },
@@ -305,6 +521,22 @@
         "Mumbai": {
           "modal_price": 2200,
           "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 500,
+          "variety": "Other"
+        },
+        "Pimpalgaon": {
+          "modal_price": 1350,
+          "variety": "Other"
+        },
+        "Pandharpur": {
+          "modal_price": 1100,
+          "variety": "Other"
+        },
+        "Satara": {
+          "modal_price": 1250,
+          "variety": "Other"
         }
       },
       "outstate": {}
@@ -348,9 +580,34 @@
         "Mumbai": {
           "modal_price": 15500,
           "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 12500,
+          "variety": "Other"
+        },
+        "Pimpalgaon": {
+          "modal_price": 11000,
+          "variety": "Other"
+        },
+        "Sangola": {
+          "modal_price": 6235,
+          "variety": "Pomegranate"
+        },
+        "Pandharpur": {
+          "modal_price": 7000,
+          "variety": "Other"
+        },
+        "Satana": {
+          "modal_price": 7000,
+          "variety": "Other"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Davangere": {
+          "modal_price": 8200,
+          "variety": "Pomogranate"
+        }
+      }
     },
     "garlic": {
       "marathi": "लसूण",
@@ -375,6 +632,14 @@
         "Nagpur": {
           "modal_price": 7750,
           "variety": "Other"
+        },
+        "Akola": {
+          "modal_price": 10000,
+          "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 11000,
+          "variety": "Other"
         }
       },
       "outstate": {}
@@ -394,6 +659,14 @@
         "Pune": {
           "modal_price": 3000,
           "variety": "Other"
+        },
+        "Jalgaon": {
+          "modal_price": 3000,
+          "variety": "Other"
+        },
+        "Satara": {
+          "modal_price": 5000,
+          "variety": "Other"
         }
       },
       "outstate": {}
@@ -407,7 +680,12 @@
     "silk-cocoonbh-double-hybr": {
       "marathi": "रेशीम कोष",
       "english": "Cocoon",
-      "local": {},
+      "local": {
+        "Baramati": {
+          "modal_price": 41000,
+          "variety": "Silk Cocoon(Bh) _double Hybr"
+        }
+      },
       "outstate": {}
     }
   }

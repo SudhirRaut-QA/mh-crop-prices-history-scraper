@@ -23,8 +23,22 @@ CROPS = [
     {"id": "silk-cocoonbh-double-hybr", "name": "Cocoon", "marathi": "रेशीम कोष"}
 ]
 
-TARGET_MARKETS = ["ahmednagar", "rahata", "rahuri", "junnar-alephata", "sangamner", "lasalgaon", "pune", "solapur", "nagpur", "mumbai"]
-OUTSTATE_MARKETS = ["Indore", "Delhi", "Bangalore", "Surat", "Rajkot"]
+# Upgraded based on your Agricultural Research
+LOCAL_MARKETS = [
+    # Static Columns
+    "ahmednagar", "rahata", "rahuri", "junnar-alephata", "sangamner",
+    # The New "Pramukh" Benchmarks
+    "lasalgaon", "pune", "solapur", "nagpur", "mumbai", "latur", "akola",
+    "amravati", "washim", "hinganghat", "yavatmal", "jalgaon", "jalna",
+    "pimpalgaon", "narayangaon", "sangola", "pandharpur", "satana",
+    "baramati", "talegaon", "satara"
+]
+
+OUTSTATE_MARKETS = [
+    "Indore", "Delhi", "Bangalore", "Surat", "Rajkot", "Ujjain", "Neemuch",
+    "Mandsaur", "Bhopal", "Kadi", "Dahod", "Gulbarga", "Kolar", "Ramanagara",
+    "Davangere", "Kanpur", "Nizamabad"
+]
 
 def extract_price(text):
     match = re.search(r'([\d,]+)', text)
@@ -33,7 +47,6 @@ def extract_price(text):
     return 0
 
 # --- THE SCRAPER ---
-# START PERFORMANCE TIMER
 start_time = time.time()
 
 with SB(uc=True, test=True, headless=True) as sb:
@@ -41,7 +54,7 @@ with SB(uc=True, test=True, headless=True) as sb:
     
     print("🚀 Warming up browser to generate Cloudflare Cookie...")
     sb.open("https://www.commodityonline.com/")
-    sb.sleep(6) # Crucial: Let the "Verify you are human" check pass
+    sb.sleep(6) 
     
     for crop in CROPS:
         print(f"\nProcessing {crop['name']}...")
@@ -53,11 +66,10 @@ with SB(uc=True, test=True, headless=True) as sb:
         }
 
         # 1. LOCAL MARKETS
-        for market_slug in TARGET_MARKETS:
+        for market_slug in LOCAL_MARKETS:
             url = f"https://www.commodityonline.com/mandiprices/{crop['id']}/maharashtra/{market_slug}"
             try:
                 sb.open(url)
-                sb.sleep(1) # Let the table render
                 
                 soup = BeautifulSoup(sb.get_page_source(), "html.parser")
                 rows = soup.select("table tbody tr")
