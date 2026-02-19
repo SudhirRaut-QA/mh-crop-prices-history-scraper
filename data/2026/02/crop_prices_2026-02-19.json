@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-19T15:35:53.748281",
-  "execution_time_seconds": 75.51,
-  "execution_time_formatted": "1m 15s",
+  "timestamp": "2026-02-19T15:44:07.052475",
+  "execution_time_seconds": 144.38,
+  "execution_time_formatted": "2m 24s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -151,7 +151,12 @@
           "variety": "---"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Indore": {
+          "modal_price": 5180,
+          "variety": "Soyabeen"
+        }
+      }
     },
     "cotton": {
       "marathi": "कापूस",
@@ -450,7 +455,12 @@
           "variety": "बोल्ड"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Indore": {
+          "modal_price": 7405,
+          "variety": "Gram"
+        }
+      }
     },
     "tomato": {
       "marathi": "टोमॅटो",
@@ -560,7 +570,12 @@
           "variety": "लोकल"
         }
       },
-      "outstate": {}
+      "outstate": {
+        "Davangere": {
+          "modal_price": 8200,
+          "variety": "Pomogranate"
+        }
+      }
     },
     "garlic": {
       "marathi": "लसूण",

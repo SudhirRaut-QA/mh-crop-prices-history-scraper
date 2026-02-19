@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 import json
 import os
 import time
+import re
 from datetime import datetime
 
 # --- CONFIG ---
-# We use the exact MSAMB Option Values from the HTML you provided!
 CROPS = [
     {"id": "onion", "name": "Onion", "marathi": "कांदा", "msamb_val": "08035"},
     {"id": "soyabean", "name": "Soybean", "marathi": "सोयाबीन", "msamb_val": "04017"},
@@ -20,102 +20,148 @@ CROPS = [
     {"id": "garlic", "name": "Garlic", "marathi": "लसूण", "msamb_val": "08045"},
     {"id": "marigold-calcutta", "name": "Marigold", "marathi": "झेंडू", "msamb_val": "16009"},
     {"id": "rose-local", "name": "Rose", "marathi": "गुलाब", "msamb_val": "16003"},
-    {"id": "silk-cocoonbh-double-hybr", "name": "Cocoon", "marathi": "रेशीम कोष", "msamb_val": ""} # Note: MSAMB doesn't list Silk Cocoon.
+    {"id": "silk-cocoonbh-double-hybr", "name": "Cocoon", "marathi": "रेशीम कोष", "msamb_val": ""}
 ]
 
-# We are only saving data for the markets we actually care about to keep the JSON small!
-TARGET_MARKETS = [
+# Marathi Names for MSAMB
+LOCAL_MARKETS = [
     "अहिल्यानगर", "राहता", "राहुरी", "आळेफाटा", "संगमनेर", "लासलगाव", 
     "पुणे", "सोलापूर", "नागपूर", "मुंबई", "लातूर", "अकोला", "अमरावती", 
     "वाशिम", "हिंगणघाट", "यवतमाळ", "जळगाव", "जालना", "पिंपळगाव", 
     "नारायणगाव", "सांगोला", "पंढरपूर", "सटाणा", "बारामती", "तळेगाव", "सातारा", "कल्याण"
 ]
 
+# English Names for CommodityOnline
+OUTSTATE_MARKETS = [
+    "Indore", "Delhi", "Bangalore", "Surat", "Rajkot", "Ujjain", "Neemuch",
+    "Mandsaur", "Bhopal", "Kadi", "Dahod", "Gulbarga", "Kolar", "Ramanagara",
+    "Davangere", "Kanpur", "Nizamabad"
+]
+
 def clean_price(text):
-    """Removes commas and spaces to return a clean integer."""
     try:
         return int(text.replace(',', '').strip())
     except ValueError:
         return 0
+        
+def extract_co_price(text):
+    match = re.search(r'([\d,]+)', text)
+    if match:
+        return int(match.group(1).replace(',', ''))
+    return 0
 
 # --- THE SCRAPER ---
 start_time = time.time()
 final_data = {"crops": {}}
 
-# Initialize SeleniumBase
 with SB(uc=True, test=True, headless=True) as sb:
-    print("🚀 Booting up MSAMB Scraper...")
-    sb.open("https://www.msamb.com/ApmcDetail/APMCPriceInformation")
     
-    # Wait for the main dropdown to appear on the screen
+    # ---------------------------------------------------------
+    # PART 1: MSAMB FOR ENRICHED LOCAL MAHARASHTRA DATA
+    # ---------------------------------------------------------
+    print("🚀 Booting up MSAMB (Primary Engine)...")
+    sb.open("https://www.msamb.com/ApmcDetail/APMCPriceInformation")
     sb.wait_for_element_visible("#drpCommodities", timeout=15)
     
     for crop in CROPS:
-        print(f"\nProcessing {crop['marathi']}...")
-        
-        # Setup the basic JSON structure for this crop
+        print(f"\nProcessing {crop['marathi']} from MSAMB...")
         final_data["crops"][crop['id']] = {
             "marathi": crop['marathi'],
             "english": crop['name'],
             "local": {},
-            "outstate": {} # MSAMB doesn't have outstate, but we leave the key for Activepieces
+            "outstate": {}
         }
         
-        # If MSAMB doesn't track this crop (like Cocoon), skip it
         if not crop['msamb_val']:
-            print("   ⚠️ Not tracked by MSAMB. Skipping.")
+            print("   ⚠️ Not tracked by MSAMB. Skipping to National Fallback.")
             continue
             
         try:
-            # 1. Select the crop from the dropdown using its Value
             sb.select_option_by_value("#drpCommodities", crop['msamb_val'])
-            
-            # 2. Wait for the "Data is loading..." text to DISAPPEAR
-            # MSAMB shows an element with ID "OdivCommodity" while loading.
             sb.wait_for_element_not_visible("#OdivCommodity", timeout=15)
+            sb.sleep(1.5) # Extra buffer for table rendering
             
-            # 3. Give it 1 extra second just to ensure the HTML table has fully rendered
-            sb.sleep(1) 
-            
-            # 4. Extract the HTML
-            html = sb.get_page_source()
-            soup = BeautifulSoup(html, "html.parser")
-            
-            # 5. Find the table body
+            soup = BeautifulSoup(sb.get_page_source(), "html.parser")
             tbody = soup.find("tbody", id="tblCommodity")
             if not tbody:
-                print("   ❌ No table found.")
                 continue
                 
-            # 6. Loop through the rows
+            current_trade_date = "N/A"
             rows = tbody.find_all("tr")
+            
             for row in rows:
                 cols = row.find_all("td")
                 
-                # We only want rows that have 7 columns (Market, Variety, Unit, Arrival, Min, Max, Avg)
+                # Check for Date Row
+                if len(cols) == 1 and cols[0].has_attr('colspan'):
+                    current_trade_date = cols[0].text.strip()
+                    continue 
+                
+                # Check for Data Row
                 if len(cols) == 7:
                     market_name = cols[0].text.strip()
                     variety = cols[1].text.strip()
-                    avg_price_text = cols[6].text.strip()
                     
-                    price = clean_price(avg_price_text)
+                    arrival = clean_price(cols[3].text.strip())
+                    min_p = clean_price(cols[4].text.strip())
+                    max_p = clean_price(cols[5].text.strip())
+                    avg_p = clean_price(cols[6].text.strip())
                     
-                    # Does this market exist in our Target list?
-                    # Example: "पुणे- खडकी" -> We just check if "पुणे" is in the string.
-                    for target in TARGET_MARKETS:
-                        if target in market_name and price > 0:
-                            # We use the CLEAN target name (e.g. "पुणे" instead of "पुणे- खडकी")
-                            # We only save the FIRST occurrence we find, since the newest date is at the top!
+                    for target in LOCAL_MARKETS:
+                        if target in market_name and avg_p > 0:
                             if target not in final_data["crops"][crop['id']]["local"]:
                                 final_data["crops"][crop['id']]["local"][target] = {
+                                    "modal_price": avg_p,
+                                    "min_price": min_p,
+                                    "max_price": max_p,
+                                    "arrival": arrival,
+                                    "variety": variety,
+                                    "trade_date": current_trade_date
+                                }
+                                print(f"   ✅ {target}: Avg ₹{avg_p} | Min ₹{min_p} | Max ₹{max_p} | Date: {current_trade_date}")
+                            break 
+        except Exception as e:
+            print(f"   ❌ Error extracting {crop['marathi']}: {e}")
+
+    # ---------------------------------------------------------
+    # PART 2: COMMODITY ONLINE FOR OUT-OF-STATE DATA
+    # ---------------------------------------------------------
+    print("\n🚀 Warming up CommodityOnline (National Fallback)...")
+    sb.open("https://www.commodityonline.com/")
+    sb.sleep(6) # Cloudflare bypass
+    
+    for crop in CROPS:
+        print(f"   🌍 Checking National Markets for {crop['name']}...")
+        try:
+            sb.open(f"https://www.commodityonline.com/mandiprices/{crop['id']}")
+            sb.sleep(1)
+            soup = BeautifulSoup(sb.get_page_source(), "html.parser")
+            rows = soup.select("table tbody tr")
+            
+            found_outstate = set()
+            for row in rows:
+                cols = row.find_all("td")
+                if len(cols) >= 9:
+                    market_col = cols[5].get_text(strip=True).lower()
+                    state_col = cols[3].get_text(strip=True).lower()
+                    
+                    if "maharashtra" in state_col:
+                        continue 
+                        
+                    for out_mkt in OUTSTATE_MARKETS:
+                        if out_mkt.lower() in market_col and out_mkt not in found_outstate:
+                            variety = cols[2].get_text(strip=True)
+                            price = extract_co_price(cols[8].get_text(strip=True))
+                            
+                            if price > 0:
+                                final_data["crops"][crop['id']]["outstate"][out_mkt] = {
                                     "modal_price": price,
                                     "variety": variety
                                 }
-                                print(f"   ✅ {target}: ₹{price} ({variety})")
-                            break # Move to next row
-                            
+                                found_outstate.add(out_mkt)
+                                print(f"      ✅ {out_mkt}: ₹{price}")
         except Exception as e:
-            print(f"   ❌ Error processing {crop['marathi']}: {e}")
+            pass
 
 # --- PERFORMANCE METRICS ---
 end_time = time.time()
