@@ -1,0 +1,414 @@
+{
+  "timestamp": "2026-02-19T13:50:11.663987",
+  "execution_time_seconds": 752.47,
+  "execution_time_formatted": "12m 32s",
+  "crops": {
+    "onion": {
+      "marathi": "कांदा",
+      "english": "Onion",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 750,
+          "variety": "Red"
+        },
+        "Rahata": {
+          "modal_price": 1050,
+          "variety": "Red"
+        },
+        "Rahuri": {
+          "modal_price": 850,
+          "variety": "Onion Red"
+        },
+        "Alephata": {
+          "modal_price": 1400,
+          "variety": "Other"
+        },
+        "Sangamner": {
+          "modal_price": 838,
+          "variety": "Red"
+        },
+        "Lasalgaon": {
+          "modal_price": 1170,
+          "variety": "Red"
+        },
+        "Pune": {
+          "modal_price": 1000,
+          "variety": "Local"
+        },
+        "Solapur": {
+          "modal_price": 800,
+          "variety": "Red"
+        },
+        "Nagpur": {
+          "modal_price": 1500,
+          "variety": "Red"
+        }
+      },
+      "outstate": {}
+    },
+    "soyabean": {
+      "marathi": "सोयाबीन",
+      "english": "Soybean",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 5150,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 5150,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 5000,
+          "variety": "Soya-Yellow"
+        },
+        "Sangamner": {
+          "modal_price": 4511,
+          "variety": "Other"
+        },
+        "Lasalgaon": {
+          "modal_price": 5291,
+          "variety": "Other"
+        },
+        "Solapur": {
+          "modal_price": 5335,
+          "variety": "Other"
+        },
+        "Nagpur": {
+          "modal_price": 5025,
+          "variety": "Other"
+        }
+      },
+      "outstate": {
+        "Indore": {
+          "modal_price": 5180,
+          "variety": "Soyabeen"
+        }
+      }
+    },
+    "cotton": {
+      "marathi": "कापूस",
+      "english": "Cotton",
+      "local": {
+        "Sangamner": {
+          "modal_price": 6250,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "maize": {
+      "marathi": "मका",
+      "english": "Maize",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 1750,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 1415,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 1750,
+          "variety": "Maize Hybrid"
+        },
+        "Sangamner": {
+          "modal_price": 1800,
+          "variety": "Maize"
+        },
+        "Lasalgaon": {
+          "modal_price": 1640,
+          "variety": "Other"
+        },
+        "Pune": {
+          "modal_price": 2850,
+          "variety": "Deshi Red"
+        },
+        "Solapur": {
+          "modal_price": 1800,
+          "variety": "Deshi Red"
+        },
+        "Nagpur": {
+          "modal_price": 1650,
+          "variety": "Other"
+        },
+        "Mumbai": {
+          "modal_price": 3250,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "wheat": {
+      "marathi": "गहू",
+      "english": "Wheat",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 2525,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 2556,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 2475,
+          "variety": "Other"
+        },
+        "Sangamner": {
+          "modal_price": 2250,
+          "variety": "Other"
+        },
+        "Lasalgaon": {
+          "modal_price": 2475,
+          "variety": "Maharashtra 2189"
+        },
+        "Pune": {
+          "modal_price": 4850,
+          "variety": "Sharbati"
+        },
+        "Solapur": {
+          "modal_price": 3765,
+          "variety": "Sharbati"
+        },
+        "Nagpur": {
+          "modal_price": 3425,
+          "variety": "Sharbati"
+        },
+        "Mumbai": {
+          "modal_price": 3950,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "arhar-turred-gram-whole": {
+      "marathi": "तूर",
+      "english": "Tur",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 5675,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 6200,
+          "variety": "Tur/Arhar"
+        },
+        "Rahuri": {
+          "modal_price": 6350,
+          "variety": "Tur/Arhar"
+        },
+        "Sangamner": {
+          "modal_price": 6302,
+          "variety": "Other"
+        },
+        "Lasalgaon": {
+          "modal_price": 5500,
+          "variety": "Other"
+        },
+        "Solapur": {
+          "modal_price": 6300,
+          "variety": "Other"
+        },
+        "Nagpur": {
+          "modal_price": 7500,
+          "variety": "Tur/Arhar"
+        },
+        "Mumbai": {
+          "modal_price": 12700,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "bengal-gram-gram-whole": {
+      "marathi": "हरभरा",
+      "english": "Harbara",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 4800,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 5025,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 4200,
+          "variety": "Other"
+        },
+        "Sangamner": {
+          "modal_price": 5152,
+          "variety": "Other"
+        },
+        "Lasalgaon": {
+          "modal_price": 4500,
+          "variety": "Other"
+        },
+        "Pune": {
+          "modal_price": 6800,
+          "variety": "Other"
+        },
+        "Solapur": {
+          "modal_price": 5060,
+          "variety": "Other"
+        },
+        "Nagpur": {
+          "modal_price": 5215,
+          "variety": "Other"
+        },
+        "Mumbai": {
+          "modal_price": 7200,
+          "variety": "Other"
+        }
+      },
+      "outstate": {
+        "Indore": {
+          "modal_price": 7405,
+          "variety": "Gram"
+        }
+      }
+    },
+    "tomato": {
+      "marathi": "टोमॅटो",
+      "english": "Tomato",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 950,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 1000,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 850,
+          "variety": "Other"
+        },
+        "Sangamner": {
+          "modal_price": 750,
+          "variety": "Other"
+        },
+        "Pune": {
+          "modal_price": 1300,
+          "variety": "Local"
+        },
+        "Solapur": {
+          "modal_price": 700,
+          "variety": "Other"
+        },
+        "Nagpur": {
+          "modal_price": 1425,
+          "variety": "Other"
+        },
+        "Mumbai": {
+          "modal_price": 2200,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "pomegranate": {
+      "marathi": "डाळिंब",
+      "english": "Pomegranate",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 10000,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 6500,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 5750,
+          "variety": "Other"
+        },
+        "Alephata": {
+          "modal_price": 12500,
+          "variety": "Other"
+        },
+        "Sangamner": {
+          "modal_price": 4000,
+          "variety": "Other"
+        },
+        "Pune": {
+          "modal_price": 10000,
+          "variety": "Other"
+        },
+        "Solapur": {
+          "modal_price": 12000,
+          "variety": "Other"
+        },
+        "Nagpur": {
+          "modal_price": 4750,
+          "variety": "Other"
+        },
+        "Mumbai": {
+          "modal_price": 15500,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "garlic": {
+      "marathi": "लसूण",
+      "english": "Garlic",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 6600,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 6000,
+          "variety": "Other"
+        },
+        "Rahuri": {
+          "modal_price": 9500,
+          "variety": "Other"
+        },
+        "Pune": {
+          "modal_price": 8500,
+          "variety": "Other"
+        },
+        "Nagpur": {
+          "modal_price": 7750,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "marigold-calcutta": {
+      "marathi": "झेंडू",
+      "english": "Marigold",
+      "local": {
+        "Ahmednagar": {
+          "modal_price": 5500,
+          "variety": "Other"
+        },
+        "Rahata": {
+          "modal_price": 4500,
+          "variety": "Other"
+        },
+        "Pune": {
+          "modal_price": 3000,
+          "variety": "Other"
+        }
+      },
+      "outstate": {}
+    },
+    "rose-local": {
+      "marathi": "गुलाब",
+      "english": "Rose",
+      "local": {},
+      "outstate": {}
+    },
+    "silk-cocoonbh-double-hybr": {
+      "marathi": "रेशीम कोष",
+      "english": "Cocoon",
+      "local": {},
+      "outstate": {}
+    }
+  }
+}
