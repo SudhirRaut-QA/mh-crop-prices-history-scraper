@@ -40,3 +40,6 @@ jobs:
           git add data/
           git commit -m "Update crop prices, image, and video [skip ci]" || echo "No changes"
           git push
+          
+      - name: Trigger Activepieces
+        run: curl -X POST "https://cloud.activepieces.com/api/v1/webhooks/eXXPQid9bGU0G9KqouOTf"
