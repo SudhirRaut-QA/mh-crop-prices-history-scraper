@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-20T13:09:21.819887",
-  "execution_time_seconds": 134.54,
-  "execution_time_formatted": "2m 14s",
+  "timestamp": "2026-02-20T15:09:23.758999",
+  "execution_time_seconds": 162.92,
+  "execution_time_formatted": "2m 42s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -21,6 +21,14 @@
           "max_price": 1600,
           "arrival": 18507,
           "variety": "---",
+          "trade_date": "20/02/2026"
+        },
+        "नारायणगाव": {
+          "modal_price": 800,
+          "min_price": 200,
+          "max_price": 1500,
+          "arrival": 18,
+          "variety": "चिंचवड",
           "trade_date": "20/02/2026"
         },
         "आळेफाटा": {
@@ -119,14 +127,6 @@
           "variety": "---",
           "trade_date": "19/02/2026"
         },
-        "नारायणगाव": {
-          "modal_price": 850,
-          "min_price": 200,
-          "max_price": 1500,
-          "arrival": 94,
-          "variety": "चिंचवड",
-          "trade_date": "19/02/2026"
-        },
         "अहिल्यानगर": {
           "modal_price": 700,
           "min_price": 200,
@@ -207,6 +207,14 @@
       "marathi": "सोयाबीन",
       "english": "Soybean",
       "local": {
+        "लासलगाव": {
+          "modal_price": 5300,
+          "min_price": 3000,
+          "max_price": 5404,
+          "arrival": 290,
+          "variety": "---",
+          "trade_date": "20/02/2026"
+        },
         "अमरावती": {
           "modal_price": 4950,
           "min_price": 4750,
@@ -229,14 +237,6 @@
           "max_price": 5180,
           "arrival": 135,
           "variety": "लोकल",
-          "trade_date": "20/02/2026"
-        },
-        "लासलगाव": {
-          "modal_price": 5371,
-          "min_price": 3000,
-          "max_price": 5422,
-          "arrival": 112,
-          "variety": "पांढरा",
           "trade_date": "20/02/2026"
         },
         "लातूर": {
@@ -1143,6 +1143,14 @@
           "variety": "---",
           "trade_date": "20/02/2026"
         },
+        "पुणे": {
+          "modal_price": 1200,
+          "min_price": 800,
+          "max_price": 1700,
+          "arrival": 469,
+          "variety": "---",
+          "trade_date": "20/02/2026"
+        },
         "संगमनेर": {
           "modal_price": 750,
           "min_price": 250,
@@ -1180,14 +1188,6 @@
           "min_price": 800,
           "max_price": 1000,
           "arrival": 179,
-          "variety": "लोकल",
-          "trade_date": "20/02/2026"
-        },
-        "पुणे": {
-          "modal_price": 1000,
-          "min_price": 600,
-          "max_price": 1400,
-          "arrival": 2334,
           "variety": "लोकल",
           "trade_date": "20/02/2026"
         },
