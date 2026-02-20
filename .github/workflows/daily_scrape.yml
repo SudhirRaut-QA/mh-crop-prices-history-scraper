@@ -2,7 +2,7 @@ name: Daily Mandi Scrape & Video Engine
 
 on:
   schedule:
-    - cron: '59 12 * * *' # Runs every day at 6:00 PM IST
+    - cron: '15 14 * * *' # Runs every day at 7:45 PM IST
   workflow_dispatch:
 
 permissions:
