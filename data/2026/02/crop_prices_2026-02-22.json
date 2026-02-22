@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-22T14:54:25.752010",
-  "execution_time_seconds": 134.84,
-  "execution_time_formatted": "2m 14s",
+  "timestamp": "2026-02-22T17:33:22.320012",
+  "execution_time_seconds": 135.17,
+  "execution_time_formatted": "2m 15s",
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -153,45 +153,45 @@
         }
       },
       "outstate": {
-        "Mohanur(Uzhavar Sandhai )": {
-          "modal_price": 2700,
-          "variety": "Bellary"
+        "Jampuijala": {
+          "modal_price": 4000,
+          "variety": "Other"
         },
-        "Perambalur(Uzhavar Sandhai )": {
-          "modal_price": 3200,
-          "variety": "Bellary"
+        "Vikasnagar": {
+          "modal_price": 1400,
+          "variety": "Other"
         },
-        "Pudukottai(Uzhavar Sandhai )": {
-          "modal_price": 3500,
-          "variety": "Bellary"
+        "Haldwani": {
+          "modal_price": 1400,
+          "variety": "Other"
         },
-        "Aruppukottai(Uzhavar Sandhai )": {
-          "modal_price": 3250,
-          "variety": "Bellary"
+        "Sambhal": {
+          "modal_price": 1400,
+          "variety": "Onion"
         },
-        "Kumbakonam (Uzhavar Sandhai )": {
+        "Roorkee": {
           "modal_price": 3000,
-          "variety": "Bellary"
+          "variety": "Other"
         },
-        "Kambam(Uzhavar Sandhai )": {
-          "modal_price": 2600,
-          "variety": "Bellary"
+        "Smy Bhuntar": {
+          "modal_price": 2200,
+          "variety": "Other"
         },
-        "Kahithapattarai(Uzhavar Sandhai )": {
+        "Chandigarh(Grain/Fruit)": {
+          "modal_price": 1300,
+          "variety": "Onion"
+        },
+        "Hansi": {
+          "modal_price": 1500,
+          "variety": "Other"
+        },
+        "Dhekiajuli": {
+          "modal_price": 2400,
+          "variety": "Other"
+        },
+        "Pamohi(Garchuk)": {
           "modal_price": 2500,
-          "variety": "Bellary"
-        },
-        "Paramakudi(Uzhavar Sandhai )": {
-          "modal_price": 2750,
-          "variety": "Bellary"
-        },
-        "Kovilpatti(Uzhavar Sandhai )": {
-          "modal_price": 3250,
-          "variety": "Bellary"
-        },
-        "Charra": {
-          "modal_price": 1650,
-          "variety": "Dry F.A.Q."
+          "variety": "Onion"
         }
       }
     },
@@ -321,45 +321,45 @@
         }
       },
       "outstate": {
-        "Chokkikulam(Uzhavar Sandhai )": {
-          "modal_price": 8500,
+        "Alirajpur": {
+          "modal_price": 4500,
+          "variety": "Soyabeen"
+        },
+        "Chhatarpur": {
+          "modal_price": 5005,
+          "variety": "Soyabeen"
+        },
+        "Gandhwani": {
+          "modal_price": 4980,
+          "variety": "Soyabeen"
+        },
+        "Jhabua": {
+          "modal_price": 4610,
+          "variety": "Soyabeen"
+        },
+        "Rajgarh": {
+          "modal_price": 4600,
+          "variety": "Yellow"
+        },
+        "Shahagarh": {
+          "modal_price": 4650,
+          "variety": "Soyabeen"
+        },
+        "Chinnamanur(Uzhavar Sandhai )": {
+          "modal_price": 8000,
           "variety": "Local"
         },
-        "Theni(Uzhavar Sandhai )": {
-          "modal_price": 8000,
+        "Chokkikulam(Uzhavar Sandhai )": {
+          "modal_price": 8500,
           "variety": "Local"
         },
         "Kariyapatti(Uzhavar Sandhai )": {
           "modal_price": 8750,
           "variety": "Local"
         },
-        "Anaiyur(Uzhavar Sandhai )": {
+        "Palanganatham(Uzhavar Sandhai )": {
           "modal_price": 8500,
           "variety": "Local"
-        },
-        "Paramakudi(Uzhavar Sandhai )": {
-          "modal_price": 9500,
-          "variety": "Local"
-        },
-        "Chinnamanur(Uzhavar Sandhai )": {
-          "modal_price": 8000,
-          "variety": "Local"
-        },
-        "Palayamkottai(Uzhavar Sandhai )": {
-          "modal_price": 9500,
-          "variety": "Local"
-        },
-        "Aruppukottai(Uzhavar Sandhai )": {
-          "modal_price": 9500,
-          "variety": "Local"
-        },
-        "Rajapalayam(Uzhavar Sandhai )": {
-          "modal_price": 10000,
-          "variety": "Local"
-        },
-        "Visavadar": {
-          "modal_price": 4240,
-          "variety": "Black"
         }
       }
     },
@@ -401,6 +401,34 @@
         }
       },
       "outstate": {
+        "Dhamnod": {
+          "modal_price": 6550,
+          "variety": "Without Ginned Cotton"
+        },
+        "Gandhwani": {
+          "modal_price": 6500,
+          "variety": "Without Ginned Cotton"
+        },
+        "Jhabua": {
+          "modal_price": 7300,
+          "variety": "Without Ginned Cotton"
+        },
+        "Jobat": {
+          "modal_price": 7400,
+          "variety": "Without Ginned Cotton"
+        },
+        "Kukshi": {
+          "modal_price": 7500,
+          "variety": "Without Ginned Cotton"
+        },
+        "Sanawad": {
+          "modal_price": 6450,
+          "variety": "Without Ginned Cotton"
+        },
+        "Thandla": {
+          "modal_price": 7800,
+          "variety": "Without Ginned Cotton"
+        },
         "Jasdan": {
           "modal_price": 7700,
           "variety": "Shanker 6 (B) 30mm FIne"
@@ -408,38 +436,6 @@
         "Upleta": {
           "modal_price": 7200,
           "variety": "Cotton (Unginned)"
-        },
-        "Bagasara": {
-          "modal_price": 6965,
-          "variety": "Other"
-        },
-        "Bodeliu": {
-          "modal_price": 7650,
-          "variety": "Other"
-        },
-        "Kadi(Kadi cotton Yard)": {
-          "modal_price": 7450,
-          "variety": "Cotton (Unginned)"
-        },
-        "Visnagar": {
-          "modal_price": 7362,
-          "variety": "Other"
-        },
-        "Dhandhuka": {
-          "modal_price": 7230,
-          "variety": "Other"
-        },
-        "Dhoraji": {
-          "modal_price": 7680,
-          "variety": "H.B (Unginned)"
-        },
-        "Vankaner": {
-          "modal_price": 7150,
-          "variety": "Other"
-        },
-        "Jasdan(Vichhiya)": {
-          "modal_price": 7025,
-          "variety": "Shanker 6 (B) 30mm FIne"
         }
       }
     },
@@ -545,45 +541,37 @@
         }
       },
       "outstate": {
-        "Tamarainagar(Uzhavar Sandhai )": {
-          "modal_price": 2250,
-          "variety": "Deshi Red"
+        "Haliyala": {
+          "modal_price": 1700,
+          "variety": "Hybrid/Local"
         },
-        "Musiri(Uzhavar Sandhai )": {
-          "modal_price": 3000,
-          "variety": "Deshi Red"
+        "Amarwda": {
+          "modal_price": 1500,
+          "variety": "Yellow"
         },
-        "Tuticorin(Uzhavar Sandhai )": {
-          "modal_price": 1250,
-          "variety": "Deshi Red"
+        "Anjad": {
+          "modal_price": 1500,
+          "variety": "Local"
         },
-        "RSPuram(Uzhavar Sandhai )": {
-          "modal_price": 2300,
-          "variety": "Deshi Red"
+        "Bhensdehi": {
+          "modal_price": 1550,
+          "variety": "Local"
         },
-        "Kallakurichi(Uzhavar Sandhai )": {
-          "modal_price": 3000,
-          "variety": "Deshi Red"
+        "Chaurai": {
+          "modal_price": 1600,
+          "variety": "Local"
         },
-        "Ammapet(Uzhavar Sandhai )": {
-          "modal_price": 2250,
-          "variety": "Deshi Red"
+        "Chhpara": {
+          "modal_price": 1511,
+          "variety": "Yellow"
         },
-        "Harur(Uzhavar Sandhai )": {
-          "modal_price": 2250,
-          "variety": "Deshi Red"
+        "Dhamnod": {
+          "modal_price": 1551,
+          "variety": "Local"
         },
-        "Pallapatti (Uzhavar Sandhai )": {
-          "modal_price": 3750,
-          "variety": "Deshi Red"
-        },
-        "Chokkikulam(Uzhavar Sandhai )": {
-          "modal_price": 2200,
-          "variety": "Deshi Red"
-        },
-        "Tiruchengode": {
-          "modal_price": 2800,
-          "variety": "Deshi Red"
+        "Garhakota": {
+          "modal_price": 1500,
+          "variety": "Local"
         }
       }
     },
@@ -729,45 +717,45 @@
         }
       },
       "outstate": {
-        "Charra": {
-          "modal_price": 2540,
-          "variety": "Dara"
+        "A lot": {
+          "modal_price": 2340,
+          "variety": "Wheat"
         },
-        "Banthara": {
-          "modal_price": 2474,
-          "variety": "Dara"
+        "Badnagar": {
+          "modal_price": 2425,
+          "variety": "Wheat"
         },
-        "Seoni": {
+        "Badnawar": {
+          "modal_price": 2210,
+          "variety": "Lokwan"
+        },
+        "Bhikangaon": {
+          "modal_price": 2300,
+          "variety": "Wheat"
+        },
+        "Biaora": {
           "modal_price": 2450,
           "variety": "Wheat"
         },
-        "Thara": {
-          "modal_price": 2525,
-          "variety": "Other"
+        "Bijawar": {
+          "modal_price": 2360,
+          "variety": "Mill Quality"
         },
-        "Modasa": {
-          "modal_price": 2555,
-          "variety": "Lokwan Gujrat"
+        "Chhatarpur": {
+          "modal_price": 2410,
+          "variety": "Mill Quality"
         },
-        "Bagasara": {
-          "modal_price": 2300,
-          "variety": "Lokwan Gujrat"
+        "Datia": {
+          "modal_price": 2500,
+          "variety": "Mill Quality"
         },
-        "Gadarpur": {
-          "modal_price": 2510,
-          "variety": "Other"
+        "Dhar": {
+          "modal_price": 2600,
+          "variety": "Lokwan"
         },
-        "Visavadar": {
-          "modal_price": 2470,
-          "variety": "Lokwan Gujrat"
-        },
-        "Morbi": {
-          "modal_price": 2575,
-          "variety": "Other"
-        },
-        "Kalawad": {
-          "modal_price": 2415,
-          "variety": "Other"
+        "Gadarwada": {
+          "modal_price": 2270,
+          "variety": "Mill Quality"
         }
       }
     },
@@ -1229,45 +1217,45 @@
         }
       },
       "outstate": {
-        "Kumarapalayam(Uzhavar Sandhai )": {
-          "modal_price": 1900,
-          "variety": "Deshi"
+        "Roorkee": {
+          "modal_price": 1600,
+          "variety": "Other"
         },
-        "Aranthangi(Uzhavar Sandhai )": {
+        "Nadiyad(Piplag)": {
+          "modal_price": 1600,
+          "variety": "Tomato"
+        },
+        "Gondal(Veg.market Gondal)": {
+          "modal_price": 850,
+          "variety": "Tomato"
+        },
+        "Nadiyad(Chaklasi)": {
+          "modal_price": 1500,
+          "variety": "Tomato"
+        },
+        "Madanapalli": {
+          "modal_price": 1400,
+          "variety": "Local"
+        },
+        "Punganur": {
+          "modal_price": 1100,
+          "variety": "Hybrid"
+        },
+        "Haldwani": {
+          "modal_price": 700,
+          "variety": "Other"
+        },
+        "Sambhal": {
           "modal_price": 2250,
           "variety": "Deshi"
         },
-        "Thammampatti (Uzhavar Sandhai )": {
-          "modal_price": 1600,
-          "variety": "Deshi"
-        },
-        "Sathur(Uzhavar Sandhai )": {
-          "modal_price": 1800,
-          "variety": "Deshi"
-        },
-        "Kariyapatti(Uzhavar Sandhai )": {
+        "Nadiad": {
           "modal_price": 1900,
-          "variety": "Deshi"
+          "variety": "Tomato"
         },
-        "Kumbakonam (Uzhavar Sandhai )": {
-          "modal_price": 2400,
-          "variety": "Deshi"
-        },
-        "Kambam(Uzhavar Sandhai )": {
-          "modal_price": 1800,
-          "variety": "Deshi"
-        },
-        "Tiruvannamalai(Uzhavar Sandhai )": {
-          "modal_price": 1800,
-          "variety": "Deshi"
-        },
-        "Bodinayakanur(Uzhavar Sandhai )": {
-          "modal_price": 1900,
-          "variety": "Deshi"
-        },
-        "Tamarainagar(Uzhavar Sandhai )": {
+        "Hansi": {
           "modal_price": 1500,
-          "variety": "Deshi"
+          "variety": "Other"
         }
       }
     },
@@ -1341,25 +1329,13 @@
         }
       },
       "outstate": {
-        "Mettur(Uzhavar Sandhai )": {
-          "modal_price": 19000,
+        "Gondal(Veg.market Gondal)": {
+          "modal_price": 5000,
           "variety": "Pomogranate"
         },
-        "Palayamkottai(Uzhavar Sandhai )": {
-          "modal_price": 18000,
-          "variety": "Pomogranate"
-        },
-        "Sampath Nagar(Uzhavar Sandhai )": {
-          "modal_price": 22500,
-          "variety": "Pomogranate"
-        },
-        "Anaiyur(Uzhavar Sandhai )": {
-          "modal_price": 24000,
-          "variety": "Pomogranate"
-        },
-        "Hasthampatti(Uzhavar Sandhai )": {
-          "modal_price": 19500,
-          "variety": "Pomogranate"
+        "Vikasnagar": {
+          "modal_price": 4500,
+          "variety": "Other"
         },
         "Hansi": {
           "modal_price": 10000,
@@ -1369,16 +1345,24 @@
           "modal_price": 24000,
           "variety": "Pomogranate"
         },
-        "Chokkikulam(Uzhavar Sandhai )": {
-          "modal_price": 24000,
+        "Sampath Nagar(Uzhavar Sandhai )": {
+          "modal_price": 22500,
           "variety": "Pomogranate"
         },
-        "Hosur(Uzhavar Sandhai )": {
-          "modal_price": 15000,
+        "Sooramangalam(Uzhavar Sandhai )": {
+          "modal_price": 17000,
           "variety": "Pomogranate"
         },
-        "Udhagamandalam(Uzhavar Sandhai )": {
-          "modal_price": 17500,
+        "Thanjavur(Uzhavar Sandhai )": {
+          "modal_price": 20000,
+          "variety": "Pomogranate"
+        },
+        "Thathakapatti(Uzhavar Sandhai )": {
+          "modal_price": 19000,
+          "variety": "Pomogranate"
+        },
+        "Theni(Uzhavar Sandhai )": {
+          "modal_price": 20000,
           "variety": "Pomogranate"
         }
       }
@@ -1461,44 +1445,36 @@
         }
       },
       "outstate": {
-        "Udhagamandalam(Uzhavar Sandhai )": {
-          "modal_price": 17500,
-          "variety": "Average"
-        },
-        "Aruppukottai(Uzhavar Sandhai )": {
+        "Smy Bhuntar": {
           "modal_price": 13500,
-          "variety": "Average"
-        },
-        "Gudiyatham(Uzhavar Sandhai )": {
-          "modal_price": 15500,
-          "variety": "Average"
-        },
-        "Arani(Uzhavar Sandhai )": {
-          "modal_price": 18500,
-          "variety": "Average"
+          "variety": "Other"
         },
         "Hansi": {
           "modal_price": 11000,
           "variety": "Other"
         },
-        "Mecheri(Uzhavar Sandhai)": {
-          "modal_price": 13000,
-          "variety": "Average"
+        "Pamohi(Garchuk)": {
+          "modal_price": 11000,
+          "variety": "Garlic"
         },
-        "Hosur(Uzhavar Sandhai )": {
-          "modal_price": 17500,
-          "variety": "Average"
-        },
-        "Nagapattinam(Uzhavar Sandhai )": {
-          "modal_price": 17500,
-          "variety": "Average"
+        "Patti": {
+          "modal_price": 12000,
+          "variety": "Other"
         },
         "AJattihalli(Uzhavar Sandhai )": {
           "modal_price": 16000,
           "variety": "Average"
         },
-        "Polur(Uzhavar Sandhai )": {
-          "modal_price": 16500,
+        "Anaiyur(Uzhavar Sandhai )": {
+          "modal_price": 19000,
+          "variety": "Average"
+        },
+        "Andipatti(Uzhavar Sandhai )": {
+          "modal_price": 23500,
+          "variety": "Average"
+        },
+        "Arani(Uzhavar Sandhai )": {
+          "modal_price": 18500,
           "variety": "Average"
         }
       }
@@ -1525,44 +1501,44 @@
         }
       },
       "outstate": {
-        "Medavakkam(Uzhavar Sandhai )": {
-          "modal_price": 8500,
+        "Thathakapatti(Uzhavar Sandhai )": {
+          "modal_price": 13000,
           "variety": "Marigold(Calcutta)"
         },
-        "Mettur(Uzhavar Sandhai )": {
+        "Dharmapuri(Uzhavar Sandhai )": {
+          "modal_price": 10750,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Anna nagar(Uzhavar Sandhai )": {
+          "modal_price": 8000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Katpadi (Uzhavar Sandhai )": {
+          "modal_price": 11000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Athur(Uzhavar Sandhai )": {
           "modal_price": 19000,
-          "variety": "Marigold(Calcutta)"
-        },
-        "Naravarikuppam(Uzhavar Sandhai )": {
-          "modal_price": 20000,
-          "variety": "Marigold(Calcutta)"
-        },
-        "Paramakudi(Uzhavar Sandhai )": {
-          "modal_price": 7500,
-          "variety": "Marigold(Calcutta)"
-        },
-        "Ramanathapuram(Uzhavar Sandhai )": {
-          "modal_price": 4750,
           "variety": "Marigold(Calcutta)"
         },
         "Ranipettai(Uzhavar Sandhai )": {
           "modal_price": 10000,
           "variety": "Marigold(Calcutta)"
         },
+        "Arcot(Uzhavar Sandhai )": {
+          "modal_price": 12000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Kallakurichi(Uzhavar Sandhai )": {
+          "modal_price": 35000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Tindivanam": {
+          "modal_price": 22000,
+          "variety": "Marigold(Calcutta)"
+        },
         "Rasipuram(Uzhavar Sandhai )": {
           "modal_price": 15000,
-          "variety": "Marigold(Calcutta)"
-        },
-        "Sooramangalam(Uzhavar Sandhai )": {
-          "modal_price": 14500,
-          "variety": "Marigold(Calcutta)"
-        },
-        "Tamarainagar(Uzhavar Sandhai )": {
-          "modal_price": 13500,
-          "variety": "Marigold(Calcutta)"
-        },
-        "Thathakapatti(Uzhavar Sandhai )": {
-          "modal_price": 13000,
           "variety": "Marigold(Calcutta)"
         }
       }
@@ -1589,6 +1565,18 @@
         }
       },
       "outstate": {
+        "Rasipuram(Uzhavar Sandhai )": {
+          "modal_price": 11000,
+          "variety": "Rose (Local)"
+        },
+        "Kahithapattarai(Uzhavar Sandhai )": {
+          "modal_price": 9000,
+          "variety": "Rose (Local)"
+        },
+        "Villupuram(Uzhavar Sandhai )": {
+          "modal_price": 30000,
+          "variety": "Rose (Local)"
+        },
         "Ammapet(Uzhavar Sandhai )": {
           "modal_price": 9500,
           "variety": "Rose (Local)"
@@ -1597,36 +1585,24 @@
           "modal_price": 15000,
           "variety": "Rose (Local)"
         },
-        "Guduvancheri(Uzhavar Sandhai )": {
-          "modal_price": 11000,
-          "variety": "Rose (Local)"
-        },
-        "Hosur(Uzhavar Sandhai )": {
-          "modal_price": 7500,
-          "variety": "Rose (Local)"
-        },
         "Jameenrayapettai(Uzhavar Sandhai )": {
           "modal_price": 11000,
-          "variety": "Rose (Local)"
-        },
-        "Kahithapattarai(Uzhavar Sandhai )": {
-          "modal_price": 9000,
           "variety": "Rose (Local)"
         },
         "Kallakurichi(Uzhavar Sandhai )": {
           "modal_price": 35000,
           "variety": "Rose (Local)"
         },
-        "Katpadi (Uzhavar Sandhai )": {
-          "modal_price": 11000,
+        "Hosur(Uzhavar Sandhai )": {
+          "modal_price": 7500,
           "variety": "Rose (Local)"
         },
         "Krishnagiri(Uzhavar Sandhai )": {
           "modal_price": 13000,
           "variety": "Rose (Local)"
         },
-        "Mettur(Uzhavar Sandhai )": {
-          "modal_price": 19000,
+        "Naravarikuppam(Uzhavar Sandhai )": {
+          "modal_price": 15000,
           "variety": "Rose (Local)"
         }
       }
