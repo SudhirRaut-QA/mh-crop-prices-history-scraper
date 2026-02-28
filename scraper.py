@@ -80,6 +80,7 @@ CROPS = [
     {"id": "garlic", "name": "Garlic", "marathi": "लसूण", "msamb_val": "08045", "commodityonline_id": "garlic"},
     {"id": "marigold-calcutta", "name": "Marigold", "marathi": "झेंडू", "msamb_val": "16009", "commodityonline_id": "marigold-calcutta"},
     {"id": "rose-local", "name": "Rose", "marathi": "गुलाब", "msamb_val": "16003", "commodityonline_id": "rose-local"},
+    {"id": "green-chilli", "name": "Green Chilli", "marathi": "हिरवी मिरची", "msamb_val": "10013", "commodityonline_id": "green-chilli"},
     {"id": "silk-cocoonbh-double-hybr", "name": "Cocoon", "marathi": "रेशीम कोष", "msamb_val": "", "commodityonline_id": "silk-cocoonbh-double-hybr"}  # Not on MSAMB
 ]
 
