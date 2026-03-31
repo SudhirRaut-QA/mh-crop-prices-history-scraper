@@ -1,0 +1,1682 @@
+{
+  "timestamp": "2026-03-31T15:46:46.023724",
+  "execution_time_seconds": 136.33,
+  "execution_time_formatted": "2m 16s",
+  "crops": {
+    "onion": {
+      "marathi": "कांदा",
+      "english": "Onion",
+      "local": {
+        "मुंबई": {
+          "modal_price": 850,
+          "min_price": 500,
+          "max_price": 1200,
+          "arrival": 6988,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "सातारा": {
+          "modal_price": 1000,
+          "min_price": 700,
+          "max_price": 1300,
+          "arrival": 205,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "आळेफाटा": {
+          "modal_price": 1100,
+          "min_price": 900,
+          "max_price": 1310,
+          "arrival": 2220,
+          "variety": "चिंचवड",
+          "trade_date": "31/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 600,
+          "min_price": 100,
+          "max_price": 1500,
+          "arrival": 32345,
+          "variety": "लाल",
+          "trade_date": "31/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 875,
+          "min_price": 250,
+          "max_price": 1100,
+          "arrival": 712,
+          "variety": "लाल",
+          "trade_date": "31/03/2026"
+        },
+        "पुणे": {
+          "modal_price": 1200,
+          "min_price": 1000,
+          "max_price": 1500,
+          "arrival": 55,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "संगमनेर": {
+          "modal_price": 776,
+          "min_price": 200,
+          "max_price": 1351,
+          "arrival": 5564,
+          "variety": "उन्हाळी",
+          "trade_date": "31/03/2026"
+        },
+        "अकोला": {
+          "modal_price": 800,
+          "min_price": 400,
+          "max_price": 1100,
+          "arrival": 1120,
+          "variety": "---",
+          "trade_date": "30/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 1200,
+          "min_price": 600,
+          "max_price": 1800,
+          "arrival": 339,
+          "variety": "लाल",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 1325,
+          "min_price": 1000,
+          "max_price": 1400,
+          "arrival": 2080,
+          "variety": "लाल",
+          "trade_date": "30/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 800,
+          "min_price": 300,
+          "max_price": 1150,
+          "arrival": 704,
+          "variety": "नं. १",
+          "trade_date": "30/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 1400,
+          "min_price": 1200,
+          "max_price": 1600,
+          "arrival": 3,
+          "variety": "नं. १",
+          "trade_date": "30/03/2026"
+        },
+        "नारायणगाव": {
+          "modal_price": 700,
+          "min_price": 200,
+          "max_price": 1200,
+          "arrival": 42,
+          "variety": "चिंचवड",
+          "trade_date": "29/03/2026"
+        },
+        "लासलगाव": {
+          "modal_price": 921,
+          "min_price": 521,
+          "max_price": 973,
+          "arrival": 1530,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 825,
+          "min_price": 500,
+          "max_price": 1020,
+          "arrival": 479,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "सटाणा": {
+          "modal_price": 840,
+          "min_price": 240,
+          "max_price": 1065,
+          "arrival": 5180,
+          "variety": "लाल",
+          "trade_date": "27/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 700,
+          "min_price": 150,
+          "max_price": 1300,
+          "arrival": 19195,
+          "variety": "लाल",
+          "trade_date": "26/03/2026"
+        },
+        "राहता": {
+          "modal_price": 1000,
+          "min_price": 300,
+          "max_price": 1300,
+          "arrival": 1071,
+          "variety": "---",
+          "trade_date": "24/03/2026"
+        }
+      },
+      "outstate": {
+        "Aluva": {
+          "modal_price": 2100,
+          "variety": "Big"
+        },
+        "Anchal": {
+          "modal_price": 2000,
+          "variety": "Big"
+        },
+        "Angamaly": {
+          "modal_price": 2800,
+          "variety": "Big"
+        },
+        "Athirampuzha": {
+          "modal_price": 4100,
+          "variety": "Small"
+        },
+        "Chengannur": {
+          "modal_price": 2000,
+          "variety": "Onion"
+        },
+        "Cherthala": {
+          "modal_price": 3500,
+          "variety": "Onion"
+        }
+      }
+    },
+    "soyabean": {
+      "marathi": "सोयाबीन",
+      "english": "Soybean",
+      "local": {
+        "जळगाव": {
+          "modal_price": 5150,
+          "min_price": 5150,
+          "max_price": 5250,
+          "arrival": 32,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 5325,
+          "min_price": 4800,
+          "max_price": 5500,
+          "arrival": 110,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "हिंगणघाट": {
+          "modal_price": 5500,
+          "min_price": 3400,
+          "max_price": 5715,
+          "arrival": 1058,
+          "variety": "पिवळा",
+          "trade_date": "30/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 5455,
+          "min_price": 5440,
+          "max_price": 5550,
+          "arrival": 45,
+          "variety": "लोकल",
+          "trade_date": "28/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 5050,
+          "min_price": 4800,
+          "max_price": 5300,
+          "arrival": 918,
+          "variety": "लोकल",
+          "trade_date": "28/03/2026"
+        },
+        "लातूर": {
+          "modal_price": 5500,
+          "min_price": 5328,
+          "max_price": 5625,
+          "arrival": 7963,
+          "variety": "पिवळा",
+          "trade_date": "28/03/2026"
+        },
+        "जालना": {
+          "modal_price": 5350,
+          "min_price": 4300,
+          "max_price": 5500,
+          "arrival": 1508,
+          "variety": "पिवळा",
+          "trade_date": "28/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 4650,
+          "min_price": 4500,
+          "max_price": 4800,
+          "arrival": 6,
+          "variety": "---",
+          "trade_date": "27/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 5450,
+          "min_price": 4100,
+          "max_price": 5495,
+          "arrival": 99,
+          "variety": "हायब्रीड",
+          "trade_date": "27/03/2026"
+        },
+        "लासलगाव": {
+          "modal_price": 5386,
+          "min_price": 3799,
+          "max_price": 5425,
+          "arrival": 641,
+          "variety": "---",
+          "trade_date": "25/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 5260,
+          "min_price": 4900,
+          "max_price": 5290,
+          "arrival": 11,
+          "variety": "पिवळा",
+          "trade_date": "25/03/2026"
+        },
+        "अकोला": {
+          "modal_price": 5400,
+          "min_price": 5350,
+          "max_price": 5475,
+          "arrival": 2252,
+          "variety": "पिवळा",
+          "trade_date": "25/03/2026"
+        }
+      },
+      "outstate": {
+        "Anaiyur(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Andipatti(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Aruppukottai(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Chokkikulam(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Kariyapatti(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Palanganatham(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Paramakudi(Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Ramanathapuram(Uzhavar Sandhai )": {
+          "modal_price": 8250,
+          "variety": "Local"
+        },
+        "Sivagangai (Uzhavar Sandhai )": {
+          "modal_price": 9500,
+          "variety": "Local"
+        },
+        "Theni(Uzhavar Sandhai )": {
+          "modal_price": 10000,
+          "variety": "Local"
+        }
+      }
+    },
+    "cotton": {
+      "marathi": "कापूस",
+      "english": "Cotton",
+      "local": {
+        "हिंगणघाट": {
+          "modal_price": 8100,
+          "min_price": 6500,
+          "max_price": 8405,
+          "arrival": 8000,
+          "variety": "मध्यम स्टेपल",
+          "trade_date": "31/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 7850,
+          "min_price": 7800,
+          "max_price": 7900,
+          "arrival": 55,
+          "variety": "---",
+          "trade_date": "28/03/2026"
+        }
+      },
+      "outstate": {
+        "Kalediya": {
+          "modal_price": 7800,
+          "variety": "Shanker 6 (B) 30mm FIne"
+        },
+        "Bodeliu": {
+          "modal_price": 7650,
+          "variety": "Shanker 6 (B) 30mm FIne"
+        },
+        "Modasar": {
+          "modal_price": 7825,
+          "variety": "Shanker 6 (B) 30mm FIne"
+        },
+        "Adilabad": {
+          "modal_price": 6364,
+          "variety": "Cotton (Unginned)"
+        },
+        "Jammikunta": {
+          "modal_price": 7500,
+          "variety": "Cotton (Unginned)"
+        },
+        "Hadad": {
+          "modal_price": 7750,
+          "variety": "Shanker 6 (B) 30mm FIne"
+        },
+        "Dhamnod": {
+          "modal_price": 6700,
+          "variety": "Without Ginned Cotton"
+        },
+        "Gandhwani": {
+          "modal_price": 8000,
+          "variety": "Without Ginned Cotton"
+        }
+      }
+    },
+    "maize": {
+      "marathi": "मका",
+      "english": "Maize",
+      "local": {
+        "पुणे": {
+          "modal_price": 2600,
+          "min_price": 2500,
+          "max_price": 2700,
+          "arrival": 4,
+          "variety": "लाल",
+          "trade_date": "31/03/2026"
+        },
+        "मुंबई": {
+          "modal_price": 3250,
+          "min_price": 2500,
+          "max_price": 3800,
+          "arrival": 416,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 1650,
+          "min_price": 1500,
+          "max_price": 1700,
+          "arrival": 91,
+          "variety": "----",
+          "trade_date": "30/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 1500,
+          "min_price": 1400,
+          "max_price": 1625,
+          "arrival": 160,
+          "variety": "लाल",
+          "trade_date": "30/03/2026"
+        },
+        "जालना": {
+          "modal_price": 1550,
+          "min_price": 1225,
+          "max_price": 1755,
+          "arrival": 1962,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 1525,
+          "min_price": 1400,
+          "max_price": 1650,
+          "arrival": 1,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "सटाणा": {
+          "modal_price": 1650,
+          "min_price": 1450,
+          "max_price": 1740,
+          "arrival": 2785,
+          "variety": "हायब्रीड",
+          "trade_date": "27/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 1720,
+          "min_price": 600,
+          "max_price": 1771,
+          "arrival": 550,
+          "variety": "हायब्रीड",
+          "trade_date": "27/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 1600,
+          "min_price": 1600,
+          "max_price": 1600,
+          "arrival": 26,
+          "variety": "लोकल",
+          "trade_date": "27/03/2026"
+        },
+        "लासलगाव": {
+          "modal_price": 1611,
+          "min_price": 800,
+          "max_price": 1860,
+          "arrival": 3350,
+          "variety": "----",
+          "trade_date": "25/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 1750,
+          "min_price": 1610,
+          "max_price": 1800,
+          "arrival": 98,
+          "variety": "लाल",
+          "trade_date": "25/03/2026"
+        }
+      },
+      "outstate": {
+        "Nizar": {
+          "modal_price": 1520,
+          "variety": "Deshi Red"
+        },
+        "Nizar(Rumkitalav)": {
+          "modal_price": 1430,
+          "variety": "Deshi Red"
+        },
+        "KUKARMUNDA": {
+          "modal_price": 1350,
+          "variety": "Deshi Red"
+        },
+        "Limkheda": {
+          "modal_price": 1725,
+          "variety": "Deshi White"
+        },
+        "Sontoli": {
+          "modal_price": 1550,
+          "variety": "Maize/Corn-Organic"
+        },
+        "Zalod(Sanjeli)": {
+          "modal_price": 1850,
+          "variety": "Other"
+        },
+        "Khanpur": {
+          "modal_price": 1335,
+          "variety": "Other"
+        },
+        "KHEDBRAHMA": {
+          "modal_price": 2250,
+          "variety": "Hybrid"
+        },
+        "Channagiri": {
+          "modal_price": 1700,
+          "variety": "Local"
+        },
+        "H.B. Halli": {
+          "modal_price": 1750,
+          "variety": "Hybrid/Local"
+        }
+      }
+    },
+    "wheat": {
+      "marathi": "गहू",
+      "english": "Wheat",
+      "local": {
+        "मुंबई": {
+          "modal_price": 4250,
+          "min_price": 2900,
+          "max_price": 5600,
+          "arrival": 16946,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 3300,
+          "min_price": 2600,
+          "max_price": 3800,
+          "arrival": 711,
+          "variety": "शरबती",
+          "trade_date": "31/03/2026"
+        },
+        "पुणे": {
+          "modal_price": 4400,
+          "min_price": 4100,
+          "max_price": 4700,
+          "arrival": 540,
+          "variety": "शरबती",
+          "trade_date": "31/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 2200,
+          "min_price": 2200,
+          "max_price": 2200,
+          "arrival": 37,
+          "variety": "१४७",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 2212,
+          "min_price": 2050,
+          "max_price": 2266,
+          "arrival": 2382,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "हिंगणघाट": {
+          "modal_price": 2200,
+          "min_price": 2000,
+          "max_price": 2380,
+          "arrival": 1045,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 3000,
+          "min_price": 2800,
+          "max_price": 3200,
+          "arrival": 3,
+          "variety": "शरबती",
+          "trade_date": "30/03/2026"
+        },
+        "लातूर": {
+          "modal_price": 2000,
+          "min_price": 1800,
+          "max_price": 2100,
+          "arrival": 100,
+          "variety": "२१८९",
+          "trade_date": "28/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 2300,
+          "min_price": 2050,
+          "max_price": 2550,
+          "arrival": 2382,
+          "variety": "लोकल",
+          "trade_date": "28/03/2026"
+        },
+        "जालना": {
+          "modal_price": 2275,
+          "min_price": 2050,
+          "max_price": 2425,
+          "arrival": 4568,
+          "variety": "नं. ३",
+          "trade_date": "28/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 2250,
+          "min_price": 2150,
+          "max_price": 2350,
+          "arrival": 448,
+          "variety": "---",
+          "trade_date": "27/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 2600,
+          "min_price": 2000,
+          "max_price": 2600,
+          "arrival": 306,
+          "variety": "२१८९",
+          "trade_date": "27/03/2026"
+        },
+        "सटाणा": {
+          "modal_price": 2250,
+          "min_price": 2050,
+          "max_price": 2486,
+          "arrival": 2335,
+          "variety": "लोकल",
+          "trade_date": "27/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 2650,
+          "min_price": 2300,
+          "max_price": 2800,
+          "arrival": 245,
+          "variety": "२१८९",
+          "trade_date": "25/03/2026"
+        },
+        "लासलगाव": {
+          "modal_price": 2600,
+          "min_price": 1701,
+          "max_price": 2775,
+          "arrival": 3057,
+          "variety": "२१८९",
+          "trade_date": "25/03/2026"
+        },
+        "अकोला": {
+          "modal_price": 2625,
+          "min_price": 2000,
+          "max_price": 2725,
+          "arrival": 1106,
+          "variety": "लोकल",
+          "trade_date": "25/03/2026"
+        },
+        "यवतमाळ": {
+          "modal_price": 2230,
+          "min_price": 2200,
+          "max_price": 2275,
+          "arrival": 35,
+          "variety": "लोकल",
+          "trade_date": "24/03/2026"
+        }
+      },
+      "outstate": {
+        "Kapadvanj": {
+          "modal_price": 2200,
+          "variety": "Other"
+        },
+        "Vyra": {
+          "modal_price": 2012,
+          "variety": "Other"
+        },
+        "Sanad": {
+          "modal_price": 2460,
+          "variety": "Sharbati"
+        },
+        "Lakshar": {
+          "modal_price": 2600,
+          "variety": "Deshi"
+        },
+        "Neora": {
+          "modal_price": 2200,
+          "variety": "Medium"
+        },
+        "Khanpur": {
+          "modal_price": 2265,
+          "variety": "Other"
+        },
+        "Sri Karanpur": {
+          "modal_price": 1921,
+          "variety": "Other"
+        },
+        "Nizar": {
+          "modal_price": 2185,
+          "variety": "Lokwan"
+        },
+        "KUKARMUNDA": {
+          "modal_price": 2181,
+          "variety": "Lokwan"
+        },
+        "Kudchi": {
+          "modal_price": 4200,
+          "variety": "White"
+        }
+      }
+    },
+    "arhar-turred-gram-whole": {
+      "marathi": "तूर",
+      "english": "Tur",
+      "local": {
+        "जळगाव": {
+          "modal_price": 8000,
+          "min_price": 8000,
+          "max_price": 8000,
+          "arrival": 308,
+          "variety": "---",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 7850,
+          "min_price": 7400,
+          "max_price": 7999,
+          "arrival": 5121,
+          "variety": "लाल",
+          "trade_date": "30/03/2026"
+        },
+        "हिंगणघाट": {
+          "modal_price": 8400,
+          "min_price": 6450,
+          "max_price": 8850,
+          "arrival": 7506,
+          "variety": "लाल",
+          "trade_date": "30/03/2026"
+        },
+        "लातूर": {
+          "modal_price": 7900,
+          "min_price": 7400,
+          "max_price": 7999,
+          "arrival": 1860,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "जालना": {
+          "modal_price": 7750,
+          "min_price": 5500,
+          "max_price": 7941,
+          "arrival": 298,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 8150,
+          "min_price": 8000,
+          "max_price": 8300,
+          "arrival": 4368,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 6600,
+          "min_price": 6000,
+          "max_price": 7200,
+          "arrival": 40,
+          "variety": "---",
+          "trade_date": "27/03/2026"
+        },
+        "लासलगाव": {
+          "modal_price": 6401,
+          "min_price": 5800,
+          "max_price": 6600,
+          "arrival": 3,
+          "variety": "---",
+          "trade_date": "25/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 6100,
+          "min_price": 6100,
+          "max_price": 6100,
+          "arrival": 1,
+          "variety": "हायब्रीड",
+          "trade_date": "25/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 6800,
+          "min_price": 5252,
+          "max_price": 7610,
+          "arrival": 25,
+          "variety": "लाल",
+          "trade_date": "25/03/2026"
+        },
+        "अकोला": {
+          "modal_price": 8005,
+          "min_price": 7000,
+          "max_price": 8105,
+          "arrival": 1952,
+          "variety": "लाल",
+          "trade_date": "25/03/2026"
+        },
+        "यवतमाळ": {
+          "modal_price": 7200,
+          "min_price": 6850,
+          "max_price": 7385,
+          "arrival": 130,
+          "variety": "लाल",
+          "trade_date": "24/03/2026"
+        }
+      },
+      "outstate": {
+        "Gadwal": {
+          "modal_price": 6262,
+          "variety": "Arhar Whole / Tur (Red Gram)"
+        },
+        "Bhainsa": {
+          "modal_price": 7722,
+          "variety": "Red Gram-Local"
+        },
+        "Tirumalgiri": {
+          "modal_price": 7660,
+          "variety": "Arhar Whole / Tur (Red Gram)"
+        },
+        "Jangaon": {
+          "modal_price": 6860,
+          "variety": "Red Gram-Local"
+        },
+        "Yemmiganur": {
+          "modal_price": 6010,
+          "variety": "Tur/Arhar"
+        },
+        "Apmc Kalburgi": {
+          "modal_price": 7653,
+          "variety": "Tur/Arhar"
+        },
+        "Apmc Chincholi": {
+          "modal_price": 8200,
+          "variety": "Tur/Arhar"
+        },
+        "Tandur": {
+          "modal_price": 7605,
+          "variety": "Arhar Whole / Tur (Red Gram)"
+        },
+        "Sadasivpet": {
+          "modal_price": 7225,
+          "variety": "Tur/Arhar"
+        }
+      }
+    },
+    "bengal-gram-gram-whole": {
+      "marathi": "हरभरा",
+      "english": "Harbara",
+      "local": {
+        "पुणे": {
+          "modal_price": 6600,
+          "min_price": 6000,
+          "max_price": 7200,
+          "arrival": 45,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 5011,
+          "min_price": 4700,
+          "max_price": 5100,
+          "arrival": 86,
+          "variety": "चाफा",
+          "trade_date": "31/03/2026"
+        },
+        "मुंबई": {
+          "modal_price": 7200,
+          "min_price": 6000,
+          "max_price": 7500,
+          "arrival": 1746,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 5337,
+          "min_price": 5000,
+          "max_price": 5476,
+          "arrival": 3616,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "हिंगणघाट": {
+          "modal_price": 5100,
+          "min_price": 4700,
+          "max_price": 5415,
+          "arrival": 6573,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 5205,
+          "min_price": 5195,
+          "max_price": 5235,
+          "arrival": 70,
+          "variety": "गरडा",
+          "trade_date": "28/03/2026"
+        },
+        "जालना": {
+          "modal_price": 7400,
+          "min_price": 5311,
+          "max_price": 7400,
+          "arrival": 168,
+          "variety": "काबुली",
+          "trade_date": "28/03/2026"
+        },
+        "लातूर": {
+          "modal_price": 5370,
+          "min_price": 5200,
+          "max_price": 5700,
+          "arrival": 5699,
+          "variety": "लाल",
+          "trade_date": "28/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 5050,
+          "min_price": 4700,
+          "max_price": 5400,
+          "arrival": 2532,
+          "variety": "लोकल",
+          "trade_date": "28/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 4550,
+          "min_price": 4000,
+          "max_price": 5100,
+          "arrival": 88,
+          "variety": "---",
+          "trade_date": "27/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 4800,
+          "min_price": 3500,
+          "max_price": 5051,
+          "arrival": 16,
+          "variety": "हायब्रीड",
+          "trade_date": "27/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 5000,
+          "min_price": 4910,
+          "max_price": 5640,
+          "arrival": 114,
+          "variety": "बोल्ड",
+          "trade_date": "25/03/2026"
+        },
+        "लासलगाव": {
+          "modal_price": 4751,
+          "min_price": 3000,
+          "max_price": 5000,
+          "arrival": 60,
+          "variety": "काबुली",
+          "trade_date": "25/03/2026"
+        },
+        "अकोला": {
+          "modal_price": 5385,
+          "min_price": 5000,
+          "max_price": 5620,
+          "arrival": 1554,
+          "variety": "लोकल",
+          "trade_date": "25/03/2026"
+        },
+        "यवतमाळ": {
+          "modal_price": 4750,
+          "min_price": 4600,
+          "max_price": 4970,
+          "arrival": 60,
+          "variety": "गरडा",
+          "trade_date": "24/03/2026"
+        }
+      },
+      "outstate": {
+        "Vyra": {
+          "modal_price": 5325,
+          "variety": "Average (Whole)"
+        },
+        "Hiriyur": {
+          "modal_price": 5262,
+          "variety": "Jawari/Local"
+        },
+        "Hungund": {
+          "modal_price": 5400,
+          "variety": "Jawari/Local"
+        },
+        "Lingasugur": {
+          "modal_price": 5000,
+          "variety": "Average (Whole)"
+        },
+        "Sindhanur": {
+          "modal_price": 5150,
+          "variety": "Average (Whole)"
+        },
+        "Palakkad": {
+          "modal_price": 8300,
+          "variety": "Average (Whole)"
+        },
+        "Khanpur": {
+          "modal_price": 5220,
+          "variety": "Other"
+        }
+      }
+    },
+    "tomato": {
+      "marathi": "टोमॅटो",
+      "english": "Tomato",
+      "local": {
+        "पुणे": {
+          "modal_price": 1500,
+          "min_price": 1000,
+          "max_price": 2000,
+          "arrival": 347,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "संगमनेर": {
+          "modal_price": 625,
+          "min_price": 250,
+          "max_price": 1000,
+          "arrival": 90,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "सातारा": {
+          "modal_price": 1250,
+          "min_price": 1000,
+          "max_price": 1500,
+          "arrival": 59,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "पंढरपूर": {
+          "modal_price": 350,
+          "min_price": 200,
+          "max_price": 550,
+          "arrival": 31,
+          "variety": "हायब्रीड",
+          "trade_date": "31/03/2026"
+        },
+        "मुंबई": {
+          "modal_price": 1400,
+          "min_price": 1200,
+          "max_price": 1600,
+          "arrival": 2172,
+          "variety": "नं. १",
+          "trade_date": "31/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 700,
+          "min_price": 300,
+          "max_price": 1000,
+          "arrival": 185,
+          "variety": "वैशाली",
+          "trade_date": "31/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 700,
+          "min_price": 500,
+          "max_price": 1000,
+          "arrival": 85,
+          "variety": "वैशाली",
+          "trade_date": "31/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 1000,
+          "min_price": 800,
+          "max_price": 1200,
+          "arrival": 166,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 925,
+          "min_price": 700,
+          "max_price": 1000,
+          "arrival": 500,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 1000,
+          "min_price": 500,
+          "max_price": 1200,
+          "arrival": 12,
+          "variety": "नं. १",
+          "trade_date": "30/03/2026"
+        },
+        "पिंपळगाव": {
+          "modal_price": 1505,
+          "min_price": 300,
+          "max_price": 2105,
+          "arrival": 582,
+          "variety": "---",
+          "trade_date": "29/03/2026"
+        },
+        "राहता": {
+          "modal_price": 700,
+          "min_price": 400,
+          "max_price": 1000,
+          "arrival": 84,
+          "variety": "---",
+          "trade_date": "29/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 400,
+          "min_price": 300,
+          "max_price": 500,
+          "arrival": 3,
+          "variety": "हायब्रीड",
+          "trade_date": "29/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 800,
+          "min_price": 300,
+          "max_price": 1300,
+          "arrival": 225,
+          "variety": "---",
+          "trade_date": "28/03/2026"
+        },
+        "नारायणगाव": {
+          "modal_price": 1000,
+          "min_price": 500,
+          "max_price": 1250,
+          "arrival": 2150,
+          "variety": "लोकल",
+          "trade_date": "27/03/2026"
+        }
+      },
+      "outstate": {
+        "Surat": {
+          "modal_price": 950,
+          "variety": "Other"
+        },
+        "Kairana": {
+          "modal_price": 1450,
+          "variety": "Tomato"
+        },
+        "Roorkee": {
+          "modal_price": 1600,
+          "variety": "Other"
+        },
+        "Sambhal": {
+          "modal_price": 2250,
+          "variety": "Deshi"
+        },
+        "Kapadvanj": {
+          "modal_price": 350,
+          "variety": "Tomato"
+        },
+        "Porbandar": {
+          "modal_price": 875,
+          "variety": "Deshi"
+        },
+        "Deesa(Deesa Veg Yard)": {
+          "modal_price": 925,
+          "variety": "Other"
+        },
+        "Rudrapur": {
+          "modal_price": 1400,
+          "variety": "Other"
+        },
+        "Damnagar": {
+          "modal_price": 4000,
+          "variety": "Local"
+        },
+        "Haldwani": {
+          "modal_price": 900,
+          "variety": "Other"
+        }
+      }
+    },
+    "pomegranate": {
+      "marathi": "डाळिंब",
+      "english": "Pomegranate",
+      "local": {
+        "मुंबई": {
+          "modal_price": 11500,
+          "min_price": 8000,
+          "max_price": 15000,
+          "arrival": 812,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "पुणे": {
+          "modal_price": 8500,
+          "min_price": 2000,
+          "max_price": 17000,
+          "arrival": 228,
+          "variety": "आरक्ता",
+          "trade_date": "31/03/2026"
+        },
+        "सांगोला": {
+          "modal_price": 12000,
+          "min_price": 6000,
+          "max_price": 18100,
+          "arrival": 91,
+          "variety": "भगवा",
+          "trade_date": "31/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 15000,
+          "min_price": 15000,
+          "max_price": 15000,
+          "arrival": 4,
+          "variety": "गणेश",
+          "trade_date": "31/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 8000,
+          "min_price": 2000,
+          "max_price": 18000,
+          "arrival": 84,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 13500,
+          "min_price": 13000,
+          "max_price": 14000,
+          "arrival": 67,
+          "variety": "---",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 5000,
+          "min_price": 2000,
+          "max_price": 6000,
+          "arrival": 1116,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 8500,
+          "min_price": 5000,
+          "max_price": 12000,
+          "arrival": 2,
+          "variety": "---",
+          "trade_date": "28/03/2026"
+        }
+      },
+      "outstate": {
+        "Deesa(Deesa Veg Yard)": {
+          "modal_price": 14050,
+          "variety": "Other"
+        },
+        "Kotadwara": {
+          "modal_price": 5000,
+          "variety": "Pomogranate"
+        },
+        "Gondal(Veg.market Gondal)": {
+          "modal_price": 6250,
+          "variety": "Pomogranate"
+        },
+        "Porbandar": {
+          "modal_price": 8000,
+          "variety": "Other"
+        },
+        "Rajnandgaon": {
+          "modal_price": 15000,
+          "variety": "Pomogranate"
+        },
+        "Gohana": {
+          "modal_price": 11000,
+          "variety": "Pomogranate"
+        },
+        "Hansi": {
+          "modal_price": 8000,
+          "variety": "Other"
+        },
+        "Panipat": {
+          "modal_price": 8000,
+          "variety": "Pomogranate"
+        },
+        "Ratia": {
+          "modal_price": 10000,
+          "variety": "Other"
+        },
+        "Shahabad": {
+          "modal_price": 8500,
+          "variety": "Pomogranate"
+        }
+      }
+    },
+    "garlic": {
+      "marathi": "लसूण",
+      "english": "Garlic",
+      "local": {
+        "पुणे": {
+          "modal_price": 6000,
+          "min_price": 6000,
+          "max_price": 6000,
+          "arrival": 14,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "अकोला": {
+          "modal_price": 6500,
+          "min_price": 3000,
+          "max_price": 9000,
+          "arrival": 155,
+          "variety": "---",
+          "trade_date": "30/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 10000,
+          "min_price": 5000,
+          "max_price": 15000,
+          "arrival": 3,
+          "variety": "हायब्रीड",
+          "trade_date": "30/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 8000,
+          "min_price": 5000,
+          "max_price": 11000,
+          "arrival": 108,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 7500,
+          "min_price": 1500,
+          "max_price": 9500,
+          "arrival": 1120,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "राहता": {
+          "modal_price": 5500,
+          "min_price": 5000,
+          "max_price": 6000,
+          "arrival": 3,
+          "variety": "---",
+          "trade_date": "29/03/2026"
+        },
+        "बारामती": {
+          "modal_price": 9000,
+          "min_price": 5000,
+          "max_price": 11000,
+          "arrival": 90,
+          "variety": "नं. १",
+          "trade_date": "29/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 4750,
+          "min_price": 3500,
+          "max_price": 10000,
+          "arrival": 9,
+          "variety": "---",
+          "trade_date": "28/03/2026"
+        },
+        "नारायणगाव": {
+          "modal_price": 5600,
+          "min_price": 4120,
+          "max_price": 7500,
+          "arrival": 5,
+          "variety": "---",
+          "trade_date": "28/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 5500,
+          "min_price": 3000,
+          "max_price": 8000,
+          "arrival": 290,
+          "variety": "लोकल",
+          "trade_date": "27/03/2026"
+        }
+      },
+      "outstate": {
+        "Angamaly": {
+          "modal_price": 16500,
+          "variety": "Average"
+        },
+        "Athirampuzha": {
+          "modal_price": 13200,
+          "variety": "Garlic"
+        },
+        "Chengannur": {
+          "modal_price": 14000,
+          "variety": "Garlic"
+        },
+        "North Paravur": {
+          "modal_price": 9500,
+          "variety": "Average"
+        },
+        "Palakkad": {
+          "modal_price": 15600,
+          "variety": "Garlic"
+        },
+        "Thirurrangadi": {
+          "modal_price": 11000,
+          "variety": "Other"
+        },
+        "AJattihalli(Uzhavar Sandhai )": {
+          "modal_price": 16600,
+          "variety": "Garlic"
+        },
+        "Anaiyur(Uzhavar Sandhai )": {
+          "modal_price": 19000,
+          "variety": "Garlic"
+        },
+        "Andipatti(Uzhavar Sandhai )": {
+          "modal_price": 23000,
+          "variety": "Garlic"
+        },
+        "Anna nagar(Uzhavar Sandhai )": {
+          "modal_price": 14000,
+          "variety": "Garlic"
+        }
+      }
+    },
+    "marigold-calcutta": {
+      "marathi": "झेंडू",
+      "english": "Marigold",
+      "local": {
+        "पुणे": {
+          "modal_price": 2000,
+          "min_price": 1000,
+          "max_price": 3000,
+          "arrival": 375,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 65,
+          "min_price": 60,
+          "max_price": 70,
+          "arrival": 3,
+          "variety": "हायब्रीड",
+          "trade_date": "24/03/2026"
+        }
+      },
+      "outstate": {
+        "Ammapet(Uzhavar Sandhai )": {
+          "modal_price": 19000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Anna nagar(Uzhavar Sandhai )": {
+          "modal_price": 18000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Arcot(Uzhavar Sandhai )": {
+          "modal_price": 20000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Athur(Uzhavar Sandhai )": {
+          "modal_price": 21500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Dharmapuri(Uzhavar Sandhai )": {
+          "modal_price": 9750,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Elampillai(Uzhavar Sandhai )": {
+          "modal_price": 19500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Guduvancheri(Uzhavar Sandhai )": {
+          "modal_price": 15000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Jameenrayapettai(Uzhavar Sandhai )": {
+          "modal_price": 15500,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Kahithapattarai(Uzhavar Sandhai )": {
+          "modal_price": 17000,
+          "variety": "Marigold(Calcutta)"
+        },
+        "Kallakurichi(Uzhavar Sandhai )": {
+          "modal_price": 40000,
+          "variety": "Marigold(Calcutta)"
+        }
+      }
+    },
+    "rose-local": {
+      "marathi": "गुलाब",
+      "english": "Rose",
+      "local": {
+        "पुणे": {
+          "modal_price": 5000,
+          "min_price": 4000,
+          "max_price": 6000,
+          "arrival": 24,
+          "variety": "---",
+          "trade_date": "30/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 100,
+          "min_price": 80,
+          "max_price": 120,
+          "arrival": 3,
+          "variety": "हायब्रीड",
+          "trade_date": "24/03/2026"
+        }
+      },
+      "outstate": {
+        "Ammapet(Uzhavar Sandhai )": {
+          "modal_price": 15500,
+          "variety": "Rose (Local)"
+        },
+        "Anna nagar(Uzhavar Sandhai )": {
+          "modal_price": 10000,
+          "variety": "Rose (Local)"
+        },
+        "Athur(Uzhavar Sandhai )": {
+          "modal_price": 13000,
+          "variety": "Rose (Local)"
+        },
+        "Elampillai(Uzhavar Sandhai )": {
+          "modal_price": 13500,
+          "variety": "Rose (Local)"
+        },
+        "Guduvancheri(Uzhavar Sandhai )": {
+          "modal_price": 7500,
+          "variety": "Rose (Local)"
+        },
+        "Hosur(Uzhavar Sandhai )": {
+          "modal_price": 7500,
+          "variety": "Rose (Local)"
+        },
+        "Jameenrayapettai(Uzhavar Sandhai )": {
+          "modal_price": 7500,
+          "variety": "Rose (Local)"
+        },
+        "Kahithapattarai(Uzhavar Sandhai )": {
+          "modal_price": 10000,
+          "variety": "Rose (Local)"
+        },
+        "Kallakurichi(Uzhavar Sandhai )": {
+          "modal_price": 30000,
+          "variety": "Rose (Local)"
+        },
+        "Katpadi (Uzhavar Sandhai )": {
+          "modal_price": 10000,
+          "variety": "Rose (Local)"
+        }
+      }
+    },
+    "green-chilli": {
+      "marathi": "हिरवी मिरची",
+      "english": "Green Chilli",
+      "local": {
+        "पुणे": {
+          "modal_price": 5000,
+          "min_price": 4500,
+          "max_price": 6000,
+          "arrival": 6,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "सातारा": {
+          "modal_price": 3500,
+          "min_price": 3000,
+          "max_price": 4000,
+          "arrival": 15,
+          "variety": "---",
+          "trade_date": "31/03/2026"
+        },
+        "मुंबई": {
+          "modal_price": 5500,
+          "min_price": 4000,
+          "max_price": 7000,
+          "arrival": 2118,
+          "variety": "ज्वाला",
+          "trade_date": "31/03/2026"
+        },
+        "जळगाव": {
+          "modal_price": 4000,
+          "min_price": 3000,
+          "max_price": 5000,
+          "arrival": 90,
+          "variety": "लवंगी",
+          "trade_date": "31/03/2026"
+        },
+        "सोलापूर": {
+          "modal_price": 3500,
+          "min_price": 3000,
+          "max_price": 4500,
+          "arrival": 58,
+          "variety": "लोकल",
+          "trade_date": "31/03/2026"
+        },
+        "अमरावती": {
+          "modal_price": 5500,
+          "min_price": 5000,
+          "max_price": 6000,
+          "arrival": 68,
+          "variety": "---",
+          "trade_date": "30/03/2026"
+        },
+        "नागपूर": {
+          "modal_price": 3125,
+          "min_price": 2000,
+          "max_price": 3500,
+          "arrival": 400,
+          "variety": "लोकल",
+          "trade_date": "30/03/2026"
+        },
+        "नारायणगाव": {
+          "modal_price": 4000,
+          "min_price": 600,
+          "max_price": 7500,
+          "arrival": 72,
+          "variety": "---",
+          "trade_date": "29/03/2026"
+        },
+        "राहता": {
+          "modal_price": 4300,
+          "min_price": 2000,
+          "max_price": 6500,
+          "arrival": 33,
+          "variety": "---",
+          "trade_date": "29/03/2026"
+        },
+        "कल्याण": {
+          "modal_price": 3500,
+          "min_price": 2500,
+          "max_price": 4500,
+          "arrival": 3,
+          "variety": "हायब्रीड",
+          "trade_date": "29/03/2026"
+        },
+        "अहिल्यानगर": {
+          "modal_price": 4250,
+          "min_price": 2500,
+          "max_price": 6000,
+          "arrival": 37,
+          "variety": "---",
+          "trade_date": "28/03/2026"
+        }
+      },
+      "outstate": {
+        "Aluva": {
+          "modal_price": 3000,
+          "variety": "Green Chilly"
+        },
+        "Angamaly": {
+          "modal_price": 6800,
+          "variety": "Green Chilly"
+        },
+        "Athirampuzha": {
+          "modal_price": 3300,
+          "variety": "Green Chilly"
+        },
+        "Chengannur": {
+          "modal_price": 3800,
+          "variety": "Green Chilly"
+        },
+        "Cherthala": {
+          "modal_price": 4600,
+          "variety": "Green Chilly"
+        },
+        "Ettumanoor": {
+          "modal_price": 4200,
+          "variety": "Green Chilly"
+        },
+        "Kanjangadu": {
+          "modal_price": 8000,
+          "variety": "Other"
+        },
+        "Kayamkulam": {
+          "modal_price": 3800,
+          "variety": "Other"
+        },
+        "Kothamangalam": {
+          "modal_price": 5500,
+          "variety": "Green Chilly"
+        },
+        "Kottarakkara": {
+          "modal_price": 5300,
+          "variety": "Other"
+        }
+      }
+    },
+    "silk-cocoonbh-double-hybr": {
+      "marathi": "रेशीम कोष",
+      "english": "Cocoon",
+      "local": {
+        "बारामती": {
+          "modal_price": 75000,
+          "variety": "Silk Cocoon(Bh) _double Hybr"
+        }
+      },
+      "outstate": {}
+    }
+  }
+}
